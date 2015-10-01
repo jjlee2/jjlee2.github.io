@@ -1,0 +1,9 @@
+body {
+	background-color: indigo;
+	opacity: 0.5;
+}
+
+h1, p {
+	color: white;
+	font-family: sans-serif;
+}
