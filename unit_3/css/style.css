@@ -6,7 +6,7 @@ body {
 #container {
 	border: 1px black;
 	display: flex;
-	height: 125px;
+	height: 720px;
 	flex-direction: row;
 	text-align: justify;
 }
@@ -25,7 +25,7 @@ body {
 	}
 
 .portfolio {
-	background-color: #7FFFD4;
+	background-color: #66CDAA;
 	}
 
 .about {
