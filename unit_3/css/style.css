@@ -3,6 +3,38 @@ font-family: Calibri; sans-serif;
 color: #000;
 }
 
+#container {
+	border: 1px black;
+	height: 125px;
+	text-align: justify;
+}
+
+.home_page, .portfolio, .about {
+width: 150px;
+height: 720px;
+vertical-align: top;
+display: inline-block;
+
+}
+
+.home_page {
+background-color: #99FFF7;
+}
+
+.portfolio {
+background-color: 
+}
+
+.about {
+background-color: #E493E8;
+}
+
+.photo {
+	background: url();
+}
+
+
+
 p {
 	font-style: italic;
 }
