@@ -1,6 +1,6 @@
 body {
 	font-family: Calibri; sans-serif;
-	color: #000;
+	color: #white;
 }
 
 #container {
@@ -20,7 +20,7 @@ body {
 	}
 
 .home_page {
-	background-color: #99FFF7;
+	background-color: #A9A9A9;
 	}
 
 .portfolio {
