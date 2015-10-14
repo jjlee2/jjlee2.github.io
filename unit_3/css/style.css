@@ -13,9 +13,10 @@ body {
 }
 
 .home_page, .portfolio, .about, .photo {
-	width: 320px;
+	width: 25%;
 	font-size: 12px;
 	vertical-align: top;
+	float: left;
 	}
 
 .home_page {
