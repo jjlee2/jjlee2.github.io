@@ -14,7 +14,7 @@ body {
 #home_page, #portfolio, #about {
 	width: 320px;
 	font-size: 
-	vertical-align: top;
+	vertical-align: text-bottom;
 	display: inline-block;
 
 	}
@@ -43,6 +43,6 @@ p {
 }
 
 h1 {
-font-weight: 700;
+font-weight: 800;
 
 }
