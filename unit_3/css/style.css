@@ -1,6 +1,19 @@
 body {
 	font-family: Calibri; sans-serif;
-	color: white;
+}
+
+p {
+	font-style: italic;
+}
+
+h1 {
+font-weight: 800;
+color: white;
+}
+
+ul {
+	text-align: center;
+	list-style-type: none;
 }
 
 #container {
@@ -18,15 +31,15 @@ body {
 	font-size: 12px;
 	vertical-align: top;
 	float: left;
-	}
+}
 
 .home_page {
 	background-color: #A9A9A9;
-	}
+}
 
 .portfolio {
 	background-color: #9DD1BB;
-	}
+}
 
 .about {
 	background-color: #E493E8;
@@ -34,17 +47,4 @@ body {
 
 .photo {
 	color: black;
-}
-
-p {
-	font-style: italic;
-}
-
-h1 {
-font-weight: 800;
-
-}
-ul {
-	text-align: center;
-	list-style-type: none;
 }
