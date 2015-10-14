@@ -5,7 +5,7 @@ body {
 
 #container {
 	border: 1px black;
-	display: flex;
+	display: inline-block;
 	height: 768px;
 	width: 1024px;
 	flex-direction: column;
