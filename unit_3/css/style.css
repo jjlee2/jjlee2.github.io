@@ -25,7 +25,7 @@ ul {
 	text-align: center;
 }
 
-.home_page, .portfolio, .about, .photo {
+#container {
 	width: 25%;
 	max-height: 768px;
 	font-size: 12px;
