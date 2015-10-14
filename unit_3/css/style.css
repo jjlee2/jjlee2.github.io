@@ -11,19 +11,19 @@ body {
 	text-align: center;
 }
 
-#home_page, #portfolio, #about {
+.home_page, .portfolio, .about {
 	width: 320px;
 	font-size: 
-	vertical-align: text-bottom;
+	vertical-align: top;
 	display: inline-block;
 
 	}
 
-#home_page {
+.home_page {
 	background-color: #A9A9A9;
 	}
 
-#portfolio {
+.portfolio {
 	background-color: #9DD1BB;
 	}
 
