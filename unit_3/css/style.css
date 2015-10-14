@@ -32,9 +32,6 @@ body {
 	background-color: #E493E8;
 }
 
-.photo {
-	text-align: center;
-}
 
 p {
 	font-style: italic;
@@ -43,4 +40,8 @@ p {
 h1 {
 font-weight: 800;
 
+}
+ul {
+	text-align: center;
+	list-style-type: none;
 }
