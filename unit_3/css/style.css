@@ -7,14 +7,13 @@ body {
 	border: 1px black;
 	display: flex;
 	height: 720px;
-	flex-direction: row;
-	text-align: justify;
+	flex-direction: column;
+	text-align: center;
 }
 
 .home_page, .portfolio, .about {
 	width: 320px;
 	font-size: 
-	text-align: center;
 	vertical-align: top;
 	display: inline-block;
 
