@@ -3,7 +3,7 @@ body {
 }
 
 p {
-	font-style: italic;
+	font-style: normal;
 }
 
 h1 {
@@ -24,7 +24,7 @@ ul {
 	text-align: center;
 }
 
-.home_page, .about, .contact, .photo {
+.home_page, .about, .portfolio, .photo {
 	width: 25%;
 	max-height: 768px;
 	font-size: 12px;
@@ -49,4 +49,8 @@ ul {
 .photo {
 	color: black;
 	text-align: right;
+}
+
+#slogan {
+	font-style: italic;
 }
