@@ -13,7 +13,7 @@ body {
 
 .home_page, .portfolio, .about {
 	width: 320px;
-	font-size: 
+	font-size: 12px;
 	vertical-align: top;
 	display: inline-block;
 
@@ -27,11 +27,11 @@ body {
 	background-color: #9DD1BB;
 	}
 
-#about {
+.about {
 	background-color: #E493E8;
 }
 
-#photo {
+.photo {
 	width: 320px;
 	max-height: 100%;
 }
