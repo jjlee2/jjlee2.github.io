@@ -18,7 +18,7 @@ ul {
 
 #container {
 	display: inline-block;
-	height: 768px;
+	height: 100%;
 	width: 1024px;
 	flex-direction: column;
 	text-align: center;
@@ -26,7 +26,7 @@ ul {
 
 .home_page, .about, .portfolio, .photo {
 	width: 25%;
-	max-height: 768px;
+	max-height: 100%;
 	font-size: 12px;
 	vertical-align: top;
 	float: left;
