@@ -33,6 +33,7 @@ body {
 
 #photo {
 	width: 320px;
+	max-height: 100%;
 }
 
 
