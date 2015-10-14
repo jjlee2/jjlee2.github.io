@@ -11,7 +11,7 @@ body {
 	text-align: center;
 }
 
-.home_page, .portfolio, .about {
+#home_page, #portfolio, #about {
 	width: 320px;
 	font-size: 
 	vertical-align: top;
@@ -19,22 +19,22 @@ body {
 
 	}
 
-.home_page {
+#home_page {
 	background-color: #A9A9A9;
 	}
 
-.portfolio {
+#portfolio {
 	background-color: #9DD1BB;
 	}
 
-.about {
+#about {
 	background-color: #E493E8;
 }
 
-.photo {
-	background-image: url("images/lights.jpg");
+#photo {
+	background-image: url("images/Lights.jpg");
 	width: 320px;
-	max-height: 100%;
+	max-height: ;
 }
 
 
