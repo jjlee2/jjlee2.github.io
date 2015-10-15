@@ -17,16 +17,17 @@ ul {
 	list-style-type: none;
 }
 
-#container {
+.container {
 	height: 100vh;
+	padding:.25%;
 	width: 100%;
 	text-align: center;
 }
 
 #home_page, #about, #portfolio, #photo {
 	width: 24.5%;
-	height: 99.5%;
-	margin:.25%;
+	height: 100%;
+	margin:0 .25%;
 	float: left;
 }
 
