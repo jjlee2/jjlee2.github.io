@@ -31,9 +31,7 @@ ul {
 	font-size: 12px;
 	vertical-align: top;
 	float: left;
-	border: 6px;
-	border-color: white;
-}
+	margin: 10px;
 
 .home_page {
 	background-color: #A9A9A9;
