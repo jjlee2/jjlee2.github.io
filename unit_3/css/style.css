@@ -4,6 +4,7 @@ body {
 
 p {
 	font-style: normal;
+	font-size: 12px;
 }
 
 h1 {
@@ -19,7 +20,7 @@ ul {
 #container {
 	display: inline-block;
 	height: 100%;
-	width: 1024px;
+	width: 100%;
 	flex-direction: column;
 	text-align: center;
 }
