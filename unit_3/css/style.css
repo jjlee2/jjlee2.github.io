@@ -25,7 +25,7 @@ ul {
 	text-align: center;
 }
 
-.home_page, .about, .portfolio, .photo {
+#home_page, #about, #portfolio, #photo {
 	width: 25%;
 	max-height: 100%;
 	font-size: 12px;
@@ -35,19 +35,19 @@ ul {
 	border-color: white;
 }
 
-.home_page {
+#home_page {
 	background-color: #A9A9A9;
 }
 
-.portfolio {
+#portfolio {
 	background-color: #9DD1BB;
 }
 
-.about {
+#about {
 	background-color: #ABCDEF;
 }
 
-.photo {
+#photo {
 	color: black;
 	text-align: right;
 }
