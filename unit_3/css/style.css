@@ -7,6 +7,7 @@ body {
 
 h1,h2 {
 	font-weight: 800;
+	position: bottom;
 }
 h1 {
 	letter-spacing:1em;
