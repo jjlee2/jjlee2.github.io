@@ -12,7 +12,9 @@ ul {
 	text-align: right;
 	list-style-type: none;
 }
-
+a {
+	color: #B388FF;
+}
 .container {
 	height: 100vh;
 	padding:.25%;
@@ -51,7 +53,4 @@ ul {
 #slogan {
 	font-style: italic;
 	color: white;
-}
-a: link {
-	color: #B388FF;
 }
