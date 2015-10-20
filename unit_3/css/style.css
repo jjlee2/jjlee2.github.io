@@ -14,19 +14,19 @@ h1,h2 {
 	line-height: 2em;
 	letter-spacing: 0.15em;
 	position: relative;
-	top: 700px;
+	top: 200em;
 }
 ul {
 	list-style-type: none;
 	font-size: 16px;
 	position: relative;
-	top: 750px;
+	top: 210em;
 	
 }
 a {
 	font-size: 16px;
 	position: relative;
-	top: 800px;
+	top: 215em;
 	
 }
 
