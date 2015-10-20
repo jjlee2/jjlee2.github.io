@@ -1,10 +1,10 @@
 * { margin:0; padding:0; box-sizing:border-box; }
 @import url(https://fonts.googleapis.com/css?family=Roboto:400,300);
-@import url(https://fonts.googleapis.com/css?family=Roboto+Mono);
+@import url(https://fonts.googleapis.com/css?family=Open+Sans);
 
 body {
 	color:#fff;
-	font-family: 'Roboto Mono', monospace;
+	font-family: 'Open Sans', sans-serif;
 }
 
 h1,h2 {
@@ -42,11 +42,11 @@ a {
 }
 
 #portfolio {
-	background-color: #87C6CC;
+	background-color: #7CA8DD;
 }
 
 #about {
-	background-color: #CC8D87;
+	background-color: #DDB17C;
 }
 
 #photo {
@@ -58,5 +58,6 @@ a {
 
 #slogan {
 	color: white;
+	font-style: italic;
 	font-size: 16px;
 }
