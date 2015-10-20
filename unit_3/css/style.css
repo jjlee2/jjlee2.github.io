@@ -1,6 +1,6 @@
 * { margin:0; padding:0; box-sizing:border-box; }
 @import url(https://fonts.googleapis.com/css?family=Roboto:400,300);
-@import url(https://fonts.googleapis.com/css?family=Merriweather);
+@import url(https://fonts.googleapis.com/css?family=Roboto+Mono);
 
 body {
 	color:#fff;
@@ -17,11 +17,11 @@ ul {
 	text-align: right;
 	list-style-type: none;
 	font-size: 16px;
-	font-family: 'Merriweather', serif;
+	font-family: 'Roboto Mono', monospace;
 }
 a {
 	color: #CCCC87;
-	font-family: 'Merriweather', serif;
+	font-family: 'Roboto Mono', monospace;
 	font-size: 16px;
 	text-align: right;
 }
