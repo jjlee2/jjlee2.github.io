@@ -1,6 +1,7 @@
 * { margin:0; padding:0; box-sizing:border-box; }
 @import url(https://fonts.googleapis.com/css?family=Roboto:400,300);
 @import url(https://fonts.googleapis.com/css?family=Roboto+Mono);
+@import url(https://fonts.googleapis.com/css?family=Handlee);
 
 body {
 	color:#fff;
@@ -61,7 +62,7 @@ a {
 }
 
 #slogan {
-	font-style: italic;
+	font-family: 'Handlee', cursive;
 	color: white;
 	font-size: 16px;
 }
