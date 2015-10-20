@@ -23,6 +23,7 @@ a {
 	color: #CCCC87;
 	font-family: 'Merriweather', serif;
 	font-size: 16px;
+	text-align: right;
 }
 
 .container {
@@ -41,15 +42,15 @@ a {
 }
 
 #home_page {
-	background-color: #8F9191
+	background-color: #8F9191;
 }
 
 #portfolio {
-	background-color: #87CCCC
+	background-color: #87C6CC;
 }
 
 #about {
-	background-color: #CC87CC;
+	background-color: #CC8D87;
 }
 
 #photo {
