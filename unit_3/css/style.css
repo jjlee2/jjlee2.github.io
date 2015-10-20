@@ -14,7 +14,7 @@ h1,h2 {
 	line-height: 2em;
 	letter-spacing: 0.15em;
 	position: relative;
-	bottom: 10px;
+	top: 10px;
 
 }
 ul {
