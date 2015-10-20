@@ -1,5 +1,5 @@
 * { margin:0; padding:0; box-sizing:border-box; }
-@import url(https://fonts.googleapis.com/css?family=Open+Sans);
+@import url(https://fonts.googleapis.com/css?family=Roboto:400,300);
 @import url(https://fonts.googleapis.com/css?family=Merriweather);
 
 body {
@@ -56,7 +56,7 @@ a {
 	background-image:url(../images/original_lights.jpg);
 	background-size:cover;
 	background-repeat:no-repeat;
-	background-position:center;
+	background-position:bottom;
 	text-align: right;
 }
 
