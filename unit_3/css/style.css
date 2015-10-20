@@ -16,6 +16,8 @@ h1,h2 {
 ul {
 	list-style-type: none;
 	font-size: 16px;
+	position: relative;
+	top: 50em;
 	
 }
 a {
