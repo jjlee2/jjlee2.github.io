@@ -5,11 +5,12 @@
 body {
 	color:#fff;
 	font-family: 'Muli', sans-serif;
-	font-size:24px;
+
 }
 
 h1,h2 {
 	font-family: 'Muli', sans-serif;
+	font-size:18px;
 }
 ul {
 	text-align: right;
@@ -20,8 +21,9 @@ ul {
 a {
 	color: #C49EE8;
 	font-family: 'Merriweather', serif;
-
+	font-size: 16px;
 }
+
 .container {
 	height: 100vh;
 	padding:.25%;
@@ -60,4 +62,5 @@ a {
 #slogan {
 	font-style: italic;
 	color: white;
+	font-size: 16px;
 }
