@@ -1,0 +1,64 @@
+* { margin:0; padding:0; box-sizing:border-box; }
+@import url(https://fonts.googleapis.com/css?family=Open+Sans);
+@import url(https://fonts.googleapis.com/css?family=Cabin+Condensed);
+body {
+	color: #FFF;
+	font-family: 'Open Sans', sans-serif;
+	letter-spacing: 0.15em;
+}
+
+h1,h2 {
+	font-family: 'Cabin Condensed', sans-serif;
+	font-size:28px;
+	line-height: 2em;
+	letter-spacing: 0.15em;
+}
+ul {
+	list-style-type: none;
+	font-size: 16px;
+}
+a {
+	font-size: 16px;
+	color: #555958;
+	
+}
+
+.container {
+	height: 100vh;
+	padding:.50%;
+	width: 100%;
+	text-align: center;
+	vertical-align: bottom; 
+}
+
+#home_page, #about, #portfolio, #photo {
+	width: 24.5%;
+	height: 100%;
+	margin:0 .25%;
+	float: left;
+}
+
+#home_page {
+	background-color: #555958
+}
+
+#portfolio {
+	background-color: #D6808C
+}
+
+#about {
+	background-color: #80D6CA
+}
+
+#photo {
+	background-image:url(../images/original_lights.jpg);
+	background-size:cover;
+	background-repeat:no-repeat;
+	background-position:bottom;
+}
+
+#slogan {
+	color: white;
+	font-style: italic;
+	font-size: 16px;
+}
