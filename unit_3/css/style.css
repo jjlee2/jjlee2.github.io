@@ -19,7 +19,7 @@ ul {
 	font-family: 'Merriweather', serif;
 }
 a {
-	color: #C49EE8;
+	color: #CCCC87;
 	font-family: 'Merriweather', serif;
 	font-size: 16px;
 }
@@ -44,11 +44,11 @@ a {
 }
 
 #portfolio {
-	background-color: #6EBDDE;
+	background-color: #87CCCC
 }
 
 #about {
-	background-color: #DE8F6E;
+	background-color: #CC87CC;
 }
 
 #photo {
