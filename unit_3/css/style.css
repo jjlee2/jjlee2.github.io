@@ -43,6 +43,8 @@ a {
 
 #portfolio {
 	background-color: #7CA8DD;
+	position: relative;
+	bottom: 2em;
 }
 
 #about {
