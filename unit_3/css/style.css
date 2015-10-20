@@ -12,6 +12,9 @@ h1,h2 {
 	font-size:24px;
 	line-height: 2em;
 	letter-spacing: 0.15em;
+	position: relative;
+	bottom: 2em;
+
 }
 ul {
 	list-style-type: none;
@@ -43,8 +46,6 @@ a {
 
 #portfolio {
 	background-color: #7CA8DD;
-	position: relative;
-	bottom: 2em;
 }
 
 #about {
