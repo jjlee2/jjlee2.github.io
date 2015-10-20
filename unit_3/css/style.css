@@ -14,16 +14,20 @@ h1,h2 {
 	line-height: 2em;
 	letter-spacing: 0.15em;
 	position: relative;
-	top: 10em;
+	top: 100em;
 
 }
 ul {
 	list-style-type: none;
 	font-size: 16px;
+	position: relative;
+	top: 100em;
 	
 }
 a {
 	font-size: 16px;
+	position: relative;
+	top: 100em;
 }
 
 .container {
