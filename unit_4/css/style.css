@@ -39,15 +39,16 @@ a {
 }
 
 #home_page {
-	background-color: #555958
+	background-color: #13140F
+	color: #D4FF00;
 }
 
 #portfolio {
-	background-color: #D6808C
+	background-color: #E4FFE6;
 }
 
 #about {
-	background-color: #80D6CA
+	background-color: #00D6DD
 }
 
 #photo {
