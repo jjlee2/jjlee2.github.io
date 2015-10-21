@@ -44,20 +44,18 @@ a {
 }
 
 #portfolio {
-	background-color: #E4FFE6;
+	background-color: #6D776F;
 }
-
-#about {
-	background-color: #00D6DD
-}
-
 #photo {
 	background-image:url(../images/original_lights.jpg);
 	background-size:cover;
 	background-repeat:no-repeat;
 	background-position:bottom;
+	color: #D4FF00;
 }
-
+#about {
+	background-color: #00D6DD
+}
 #slogan {
 	color: white;
 	font-style: italic;
