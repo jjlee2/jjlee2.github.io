@@ -1,31 +1,30 @@
-* { margin:0; padding:0; box-sizing:border-box; }
 @import url(https://fonts.googleapis.com/css?family=Open+Sans);
 @import url(https://fonts.googleapis.com/css?family=Cabin+Condensed);
 @import url(https://fonts.googleapis.com/css?family=Dosis:200);
 
+* { margin:0; padding:0; box-sizing:border-box; }
 body {
 	color: #FFF;
 	letter-spacing: 0.15em;
 	font-family: 'Dosis', sans-serif;
 	font-weight: 200;
+	font-size:16px;
 }
 h1,h2 {
-	font-size:28px;
+	font-size:2em;
 	line-height: 2em;
 	letter-spacing: 0.15em;
-	margin: 10px;
-	font-weight: 100;
-	padding: 25px;
+	margin: .5em;
+	font-weight: 200;
+	padding: 1.5em;
 }
 ul {
 	list-style-type: none;
-	font-size: 15px;
-	padding: 25px;
+	padding: 1.5em;
 }
 a {
-	font-size: 16px;
 	color: #FF7F66;
-	padding: 25px;
+	padding: 1.5em;
 }
 .container {
 	height: 100vh;
@@ -39,6 +38,8 @@ a {
 	height: 100%;
 	margin:0 .25%;
 	float: left;
+	box-shadow:2px 2px 4px rgba(0,0,0,.25);
+	border-radius:.25em;
 }
 #home_page {
 	background-color: #FF7F66;
