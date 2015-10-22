@@ -43,6 +43,9 @@ a {
 #home_page {
 	background-color: #FF7F66;
 }
+#logo {
+	padding: 25px;
+}
 #portfolio {
 	background-color: #7ECEFC;
 }
@@ -53,6 +56,7 @@ a {
 	color: white;
 	font-style: italic;
 	font-size: 15px;
+	padding: 25px;
 }
 #photo {
 	background-image:url(../images/original_lights.jpg);
