@@ -8,6 +8,7 @@ body {
 	letter-spacing: 0.15em;
 	font-family: 'Dosis', sans-serif;
 	font-weight: 200;
+	padding: 25px;
 }
 h1,h2 {
 	font-size:28px;
@@ -18,7 +19,7 @@ h1,h2 {
 }
 ul {
 	list-style-type: none;
-	font-size: 16px;
+	font-size: 15px;
 }
 a {
 	font-size: 16px;
@@ -49,7 +50,7 @@ a {
 #slogan {
 	color: white;
 	font-style: italic;
-	font-size: 16px;
+	font-size: 15px;
 }
 #photo {
 	background-image:url(../images/original_lights.jpg);
