@@ -2,7 +2,7 @@
 @import url(https://fonts.googleapis.com/css?family=Open+Sans);
 @import url(https://fonts.googleapis.com/css?family=Cabin+Condensed);
 body {
-	color: #F2EFBD;
+	color: #FFF6E5
 	font-family: 'Open Sans', sans-serif;
 	letter-spacing: 0.15em;
 }
@@ -39,13 +39,13 @@ a {
 }
 
 #home_page {
-	background-color: #B6D051
+	background-color: #FF7F66;
 }
 #portfolio {
-	background-color: #70A99A;
+	background-color: #7ECEFC;
 }
 #about {
-	background-color: #2F6D7A;
+	background-color: #2186C4
 }
 #slogan {
 	color: white;
