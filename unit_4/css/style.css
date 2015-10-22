@@ -1,14 +1,15 @@
 * { margin:0; padding:0; box-sizing:border-box; }
 @import url(https://fonts.googleapis.com/css?family=Open+Sans);
 @import url(https://fonts.googleapis.com/css?family=Cabin+Condensed);
+@import url(https://fonts.googleapis.com/css?family=Dosis:400,200);
 body {
-	color: #FFF6E5;
+	color: #FFF;
 	font-family: 'Open Sans', sans-serif;
 	letter-spacing: 0.15em;
 }
 
 h1,h2 {
-	font-family: 'Cabin Condensed', sans-serif;
+	font-family: 'Dosis', sans-serif;
 	font-size:28px;
 	line-height: 2em;
 	letter-spacing: 0.15em;
