@@ -12,6 +12,7 @@ h1,h2 {
 	font-size:28px;
 	line-height: 2em;
 	letter-spacing: 0.15em;
+	margin: 10px;
 }
 ul {
 	list-style-type: none;
