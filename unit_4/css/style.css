@@ -21,7 +21,6 @@ ul {
 a {
 	font-size: 16px;
 	color: #555958;
-	
 }
 
 .container {
@@ -47,13 +46,7 @@ a {
 #portfolio {
 	background-color: #6D776F;
 }
-#photo {
-	background-image:url(../images/original_lights.jpg);
-	background-size:cover;
-	background-repeat:no-repeat;
-	background-position:bottom;
-	color: #D4FF00;
-}
+
 #about {
 	background-color: #00D6DD
 }
@@ -61,4 +54,11 @@ a {
 	color: white;
 	font-style: italic;
 	font-size: 16px;
+}
+#photo {
+	background-image:url(../images/original_lights.jpg);
+	background-size:cover;
+	background-repeat:no-repeat;
+	background-position:bottom;
+	color: #D4FF00;
 }
