@@ -51,6 +51,12 @@ a {
 #about {
 	background-color: #328DC4;
 }
+#email img{
+	float: left;
+}
+#email a{
+	float: relative;
+}
 #slogan {
 	color: white;
 	font-style: italic;
