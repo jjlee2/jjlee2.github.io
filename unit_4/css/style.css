@@ -59,7 +59,7 @@ a {
 }
 #photo {
 	background-image:url(../images/whitney1.png);
-	background-size:auto;
+	background-size:cover;
 	background-repeat:no-repeat;
 	background-position:bottom;
 }
