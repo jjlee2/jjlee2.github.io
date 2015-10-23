@@ -20,12 +20,7 @@ h1,h2 {
 }
 ul {
 	list-style-type: none;
-	padding: 1.5em;
-}
-a {
-	color: #FF7F66;
-	padding: 1.5em;
-	font-weight: 500;
+	padding: 1.25em;
 }
 .container {
 	height: 100vh;
@@ -50,12 +45,6 @@ a {
 }
 #about {
 	background-color: #328DC4;
-}
-#email img{
-	float: left;
-}
-#email a{
-	float: relative;
 }
 #slogan {
 	color: white;
