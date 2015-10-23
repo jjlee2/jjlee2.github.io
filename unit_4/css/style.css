@@ -45,6 +45,9 @@ ul {
 #about {
 	background-color: #328DC4;
 }
+#contact {
+	display: inline-block;
+}
 #slogan {
 	color: white;
 	font-style: italic;
