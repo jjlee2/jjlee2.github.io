@@ -4,7 +4,7 @@
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 width="54.399px" height="54.2px" viewBox="-2.7 -2.046 54.399 54.2" enable-background="new -2.7 -2.046 54.399 54.2"
 	 xml:space="preserve">
-<circle fill="none" stroke="#FFFFFF" stroke-width="2" stroke-miterlimit="10" cx="24.443" cy="24.861" r="20.562"/>
-<text transform="matrix(1 0 0 1 11.3125 35.3264)" fill="none" stroke="#FFFFFF" stroke-width="2" stroke-miterlimit="10" font-family="'MyriadPro-Regular'" font-size="36">in</text>
-<text transform="matrix(1 0 0 1 11.3125 35.3264)" fill="none" stroke="#FFFFFF" stroke-width="2" stroke-miterlimit="10" font-family="'MyriadPro-Regular'" font-size="36">in</text>
+<circle fill="none" stroke="#FFFFFF" stroke-width="3" stroke-miterlimit="10" cx="24.443" cy="24.861" r="20.562"/>
+<text transform="matrix(1 0 0 1 11.3125 35.3264)" fill="none" stroke="#FFFFFF" stroke-miterlimit="10" font-family="'MyriadPro-Regular'" font-size="36">in</text>
+<text transform="matrix(1 0 0 1 11.3125 35.3264)" fill="none" stroke="#FFFFFF" stroke-miterlimit="10" font-family="'MyriadPro-Regular'" font-size="36">in</text>
 </svg>
