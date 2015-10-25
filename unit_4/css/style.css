@@ -47,6 +47,7 @@ ul {
 }
 #contact {
 	display: inline-block;
+	padding: 1.5em;
 }
 #slogan {
 	color: white;
