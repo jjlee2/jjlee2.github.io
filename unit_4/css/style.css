@@ -43,6 +43,9 @@ ul {
 #portfolio {
 	background-color: #7ECEFC;
 }
+.thumbnails {
+	padding: 1.5em;
+}
 #about {
 	background-color: #328DC4;
 }
