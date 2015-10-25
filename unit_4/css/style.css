@@ -19,6 +19,9 @@ h1,h2 {
 	font-weight: 200;
 	padding: 1.5em;
 }
+img {
+	padding: 2.5em;
+}
 ul {
 	list-style-type: none;
 }
