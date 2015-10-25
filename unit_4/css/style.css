@@ -33,7 +33,7 @@ ul {
 	height: 100%;
 	margin:0 .25%;
 	float: left;
-	/*box-shadow:2px 2px 4px rgba(0,0,0,.25);*/
+	box-shadow:2px 2px 4px rgba(0,0,0,.25);
 	border-radius:.25em;
 }
 #home_page {
