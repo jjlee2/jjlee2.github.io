@@ -18,16 +18,3 @@ div {
 	border: 1px black solid;
 	padding: 20px;
 }
-#photo {
-	background-image:url(../images/whitney1.png);
-}
-img {
-	background-color: #81B9FF;
-	border: 1px black solid;
-	padding: 20px;
-}
-footer {
-	background-color: #B676E8;
-	border: 1px black solid;
-	padding: 20px;
-}
