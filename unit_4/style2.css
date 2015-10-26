@@ -1,0 +1,33 @@
+.container {
+	background-color: 
+	border: 1px black solid;
+	padding: 20px;
+}
+nav {
+	background-color: #E8C66A;
+	border: 1px black solid;
+	padding: 20px;
+}
+footer {
+	background-color: #FF957E;
+	border: 1px black solid;
+	padding: 20px;
+}
+div {
+	background-color: #FFE2B8;
+	border: 1px black solid;
+	padding: 20px;
+}
+#photo {
+	background-image:url(../images/whitney1.png);
+}
+img {
+	background-color: #81B9FF;
+	border: 1px black solid;
+	padding: 20px;
+}
+footer {
+	background-color: #B676E8;
+	border: 1px black solid;
+	padding: 20px;
+}
