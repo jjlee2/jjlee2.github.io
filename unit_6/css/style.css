@@ -45,8 +45,6 @@ ul {
 }
 .thumbnails {
 	padding: 1.5em;
-	position: absolute;
-	bottom: 0;
 }
 #about {
 	background-color: #328DC4;
@@ -55,6 +53,8 @@ ul {
 #contact {
 	display: inline-block;
 	padding: 1.5em;
+	position: absolute;
+	bottom: 0;
 }
 #slogan {
 	color: white;
