@@ -63,6 +63,7 @@ a {
 #slogan {
 	color: white;
 	font-family: 'Sacramento', cursive;
+	font-size: 20px;
 }
 #photo {
 	background-image:url(../images/whitney1.png);
