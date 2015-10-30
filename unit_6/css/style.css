@@ -1,6 +1,7 @@
 @import url(https://fonts.googleapis.com/css?family=Open+Sans);
 @import url(https://fonts.googleapis.com/css?family=Cabin+Condensed);
 @import url(https://fonts.googleapis.com/css?family=Dosis:200);
+@import url(https://fonts.googleapis.com/css?family=Sacramento);
 
 * { margin:0; padding:0; box-sizing:border-box; }
 body {
@@ -61,7 +62,7 @@ a {
 }
 #slogan {
 	color: white;
-	font-style: italic;
+	font-family: 'Sacramento', cursive;
 }
 #photo {
 	background-image:url(../images/whitney1.png);
