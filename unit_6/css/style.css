@@ -56,14 +56,20 @@ a {
 	position: relative;
 	bottom: 0;
 }
-#slogan {
+/*#slogan {
 	color: white;
 	font-family: 'Sacramento', cursive;
 	font-size: 20px;
-}
+}*/
 #photo {
 	background-image:url(../images/whitney1.png);
 	background-size:cover;
 	background-repeat:no-repeat;
 	background-position:bottom;
+}
+#about.heading{
+	font: 000000;
+}
+#about.text{
+	font: #000000;
 }
