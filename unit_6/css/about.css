@@ -4,6 +4,7 @@
 body {
 	font-family: 'Open Sans', sans-serif;
 	font-weight: 300;
+	font-size: 16px;
 }
 }
 h1{
@@ -11,4 +12,7 @@ h1{
 }
 p{
 	font: #000000;
+	padding: 5em;
+	text-align: left;
+	float: right;
 }
