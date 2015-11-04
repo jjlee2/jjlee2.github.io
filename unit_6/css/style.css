@@ -67,6 +67,9 @@ a {
 	background-repeat:no-repeat;
 	background-position:bottom;
 }
+.container.about{
+	background-color: #328DC4;
+}
 #about.heading{
 	font: #000000;
 }
