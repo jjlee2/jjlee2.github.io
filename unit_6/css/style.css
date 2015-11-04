@@ -1,6 +1,6 @@
 @import url(https://fonts.googleapis.com/css?family=Open+Sans);
 @import url(https://fonts.googleapis.com/css?family=Dosis:200);
-@import url(https://fonts.googleapis.com/css?family=Sacramento);
+
 
 * { margin:0; padding:0; box-sizing:border-box; }
 body {
@@ -21,6 +21,7 @@ h1,h2 {
 }
 ul {
 	list-style-type: none;
+	font-family: 'Open Sans', sans-serif;
 }
 a {
 	text-decoration: none;
@@ -72,7 +73,9 @@ a {
 }
 #about.heading{
 	font: #000000;
+	font-family: 'Open Sans', sans-serif;
 }
 #about.text{
 	font: #000000;
+	font-family: 'Open Sans', sans-serif;
 }
