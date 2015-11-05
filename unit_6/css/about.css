@@ -15,6 +15,7 @@ h1{
 p{
 	font: #000000;
 	padding: 5em;
+	display: inline-block;
 	text-align: left;
 	float: right;
 	line-height: 1.618em;
