@@ -10,15 +10,17 @@ body {
 }
 h1{
 	font: #ffffff;
+	text-align: center;
 	font-family:'Dosis', sans-serif;
+	margin: auto;
 }
 p{
 	font: #000000;
 	padding: 5em;
-	display: inline;
 	text-align: left;
 	float: right;
 	line-height: 1.618em;
+	float: left;
 }
 .container {
 	height: 100vh;
