@@ -15,11 +15,10 @@ h1{
 p{
 	font: #000000;
 	padding: 5em;
-	display: inline-block;
+	display: inline;
 	text-align: left;
 	float: right;
 	line-height: 1.618em;
-	background-color: red;
 }
 .container {
 	height: 100vh;
@@ -27,7 +26,6 @@ p{
 	width: 100%;
 	text-align: center;
 	vertical-align: bottom;
-	background-color: orange;
 }
 #about {
 	background-color: #328DC4;
