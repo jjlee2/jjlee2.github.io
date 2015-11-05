@@ -9,10 +9,14 @@ body {
 	font: #000000;
 }
 h1{
-	font: #ffffff;
-	text-align: center;
-	font-family:'Dosis', sans-serif;
+	font-size:2.5em;
+	line-height: 2em;
+	font-weight: 600;
+	letter-spacing: 0.15em;
 	margin: auto;
+	font-weight: 200;
+	padding: 1.5em;
+	font: #FFF;
 }
 p{
 	font: #000000;
