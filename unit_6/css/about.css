@@ -52,7 +52,7 @@ p{
 	overflow: hidden;
 	width: 60vw;
 	margin: auto;
-	position: absolute;
+	position: fixed;
 	bottom: 0;
 	background-color: purple;
 }
