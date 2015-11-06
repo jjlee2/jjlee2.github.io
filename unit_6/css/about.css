@@ -52,7 +52,7 @@ p{
 	width: 60vw;
 	margin: auto;
 	position: relative;
-	bottom: .25px;
+	top: .25px;
 	padding: 1.618em;
 	background-color: purple;
 }
