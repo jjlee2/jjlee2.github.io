@@ -46,14 +46,14 @@ a:visited {
 }
 p{
 	font: #000000;
-	padding: 5em;
 	text-align: left;
 	float: right;
 	line-height: 1.618em;
-	text-align:left;
 	overflow: hidden;
 	width: 60vw;
 	margin: auto;
 	padding: 3em;
+	position: absolute;
+	bottom: 0;
 	background-color: purple;
 }
