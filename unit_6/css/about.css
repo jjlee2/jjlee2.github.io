@@ -51,9 +51,7 @@ p{
 	overflow: hidden;
 	width: 60vw;
 	margin: auto;
-	position: relative;
+	position: absolute;
 	bottom: 0px;
-	padding: 1.618em;
 	background-color: purple;
-	vertical-align: bottom;
 }
