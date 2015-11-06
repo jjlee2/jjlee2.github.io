@@ -54,8 +54,8 @@ p{
 	margin: auto;
 	position: relative;
 	bottom: 0;
-	left: 50%;
-	right: 50%;
+	right: 25vw; 
+	bottom: 0;
 	padding: 1.618em;
 	background-color: purple;
 }
