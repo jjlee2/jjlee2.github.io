@@ -53,6 +53,8 @@ p{
 	width: 60vw;
 	margin: auto;
 	position: relative;
-	bottom: 0;
+	top: 0;
+	left: auto;
+	right: auto;
 	background-color: purple;
 }
