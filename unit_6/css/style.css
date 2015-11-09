@@ -87,17 +87,13 @@ a:visited {
 	border-radius:.25em;
 	color: #FFFFFF;
 }
-#about_text{
-	width: 60vw;
-	margin: .25%;
-	padding: 10px;
-	position: relative;
-	display: inline-block;
-}
 p{
-	color: #000000;
+	font: #000000;
 	text-align: left;
 	line-height: 1.618em;
-	padding: 10px;
 	overflow: hidden;
+	width: 60vw;
+	margin: 0 auto;
+	position: relative;
+	bottom: 0px;
 }
