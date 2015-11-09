@@ -25,6 +25,7 @@ ul {
 	list-style-type: none;
 }
 a {
+	color: #FFFFFF;
 	text-decoration: none;
 }
 a:visited {
@@ -83,6 +84,5 @@ p{
 	overflow: hidden;
 	width: 600px;
 	margin: .25%;
-	position: relative;
-	bottom: 0px;
+	position: absolute;
 }
