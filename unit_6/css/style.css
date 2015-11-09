@@ -4,7 +4,6 @@
 
 * { margin:0; padding:0; box-sizing:border-box; }
 body {
-	color: #FFF;
 	letter-spacing: 0.15em;
 	font-weight: 200;
 	font-size:16px;
@@ -19,6 +18,7 @@ h1,h2 {
 	margin: auto;
 	font-weight: 200;
 	padding: 1.5em;
+	font: #FFFFFF;
 }
 ul {
 	list-style-type: none;
@@ -81,8 +81,8 @@ p{
 	text-align: left;
 	line-height: 1.618em;
 	overflow: hidden;
-	width: 60vw;
-	margin: 0 auto;
+	width: 600px;
+	margin: .25%;
 	position: relative;
 	bottom: 0px;
 }
