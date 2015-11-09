@@ -67,3 +67,13 @@ a:visited {
 	background-repeat:no-repeat;
 	background-position:bottom;
 }
+p{
+	font: #000000;
+	text-align: left;
+	line-height: 1.618em;
+	overflow: hidden;
+	width: 60vw;
+	margin: 0 auto;
+	position: relative;
+	bottom: 0px;
+}
