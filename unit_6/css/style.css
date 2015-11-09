@@ -93,6 +93,7 @@ p{
 	line-height: 1.618em;
 	overflow: hidden;
 	width: 60vw;
-	margin: 0 auto;
+	margin: 0 400px;
+	padding: 10px;
 	position: relative;
 }
