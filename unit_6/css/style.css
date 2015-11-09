@@ -89,13 +89,15 @@ a:visited {
 }
 #about_text{
 	float: left;
-	width: 600px;
+	width: 800px;
 	margin: .25%;
 	padding: 10px;
 	position: relative;
+	display: inline-block;
 }
 p{
 	color: #000000;
 	text-align: left;
 	line-height: 1.618em;
+	padding: 10px;
 }
