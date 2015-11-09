@@ -92,6 +92,7 @@ a:visited {
 	width: 600px;
 	margin: .25%;
 	padding: 10px;
+	position: relative;
 }
 p{
 	color: #000000;
