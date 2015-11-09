@@ -87,10 +87,14 @@ a:visited {
 	border-radius:.25em;
 	color: #FFFFFF;
 }
+#about_text{
+	float: left;
+	width: 600px;
+	margin: .25%;
+	padding: 10px;
+}
 p{
 	color: #000000;
 	text-align: left;
 	line-height: 1.618em;
-	width: 600px;
-	margin: .25%;
 }
