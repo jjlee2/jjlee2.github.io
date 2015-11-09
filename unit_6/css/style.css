@@ -61,11 +61,6 @@ a:visited {
 	position: relative;
 	bottom: 0;
 }
-/*#slogan {
-	color: white;
-	font-family: 'Sacramento', cursive;
-	font-size: 20px;
-}*/
 #photo {
 	background-image:url(../images/whitney1.png);
 	background-size:cover;
