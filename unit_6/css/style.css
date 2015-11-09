@@ -88,12 +88,11 @@ a:visited {
 	color: #FFFFFF;
 }
 p{
-	font: #000000;
+	color: #000000;
 	text-align: left;
 	line-height: 1.618em;
 	overflow: hidden;
 	width: 60vw;
 	margin: 0 auto;
 	position: relative;
-	bottom: 0px;
 }
