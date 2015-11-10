@@ -8,7 +8,7 @@ body {
 	font-weight: 100;
 	font-size:16px;
 	font-family: 'Open Sans', sans-serif;
-	color: #FFFFFF;
+	color: #FFF6E5;
 }
 h1,h2 {
 	font-family: 'Dosis', sans-serif;
@@ -25,11 +25,21 @@ ul {
 	list-style-type: none;
 }
 a {
-	color: #FFFFFF;
+	color: #FFF6E5;
 	text-decoration: none;
 }
 a:visited {
-	color: #FFFFFF;
+	color: #FFF6E5;
+}
+p{
+	color: #3F464C;
+	text-align: left;
+	line-height: 1.618em;
+	overflow: hidden;
+	width: 60vw;
+	margin: 0 400px;
+	padding: 10px;
+	position: relative;
 }
 .container {
 	height: 100vh;
@@ -37,6 +47,7 @@ a:visited {
 	width: 100%;
 	text-align: center;
 	vertical-align: bottom; 
+	background-color: #FFF6E5;
 }
 #home_page, #about, #portfolio, #photo {
 	width: 24.5%;
@@ -75,7 +86,7 @@ a:visited {
 	float: left;
 	box-shadow:2px 2px 4px rgba(0,0,0,.25);
 	border-radius:.25em;
-	color: #FFFFFF;
+	color: #FFF6E5;
 }
 #portfolio_page {
 	background-color: #7ECEFC;
@@ -85,15 +96,9 @@ a:visited {
 	float: left;
 	box-shadow:2px 2px 4px rgba(0,0,0,.25);
 	border-radius:.25em;
-	color: #FFFFFF;
+	color: #FFF6E5;
 }
-p{
-	color: #000000;
-	text-align: left;
-	line-height: 1.618em;
-	overflow: hidden;
-	width: 60vw;
-	margin: 0 400px;
-	padding: 10px;
-	position: relative;
+.portfolioItem {
+
 }
+
