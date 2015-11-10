@@ -99,6 +99,15 @@ p{
 	color: #FFF6E5;
 }
 .portfolioItem {
-
+	color: #3F464C;
+	font: 12px;
+	float: left;
+}
+.portfolioItem h3 {
+	text-transform: lowercase;
+}
+.portfolioItem img {
+	max-width: 100%;
+	border-radius: .25em;
 }
 
