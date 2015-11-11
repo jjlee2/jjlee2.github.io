@@ -38,7 +38,7 @@ p{
 	width: 60vw;
 	padding: 10px;
 	position: relative;
-	right: 60%;
+	margin: auto;
 }
 .container {
 	height: 100vh;
