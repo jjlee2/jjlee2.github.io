@@ -37,9 +37,9 @@ p{
 	line-height: 1.618em;
 	overflow: hidden;
 	width: 60vw;
-	margin: 0 auto;
 	padding: 10px;
 	position: relative;
+	left: 40%;
 }
 .container {
 	height: 100vh;
