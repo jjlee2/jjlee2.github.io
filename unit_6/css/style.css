@@ -35,11 +35,10 @@ p{
 	color: #3F464C;
 	text-align: left;
 	line-height: 1.618em;
-	overflow: hidden;
 	width: 60vw;
 	padding: 10px;
 	position: relative;
-	left: 40%;
+	left: 60%;
 }
 .container {
 	height: 100vh;
