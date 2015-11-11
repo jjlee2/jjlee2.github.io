@@ -87,6 +87,11 @@ p{
 	border-radius:.25em;
 	color: #FFFFFF;
 }
+#about_text {
+	float: left;
+	margin: auto;
+	width: 75%;
+}
 #portfolio_page {
 	background-color: #7ECEFC;
 	width: 24.5%;
