@@ -103,7 +103,9 @@ p{
 }
 .portfolioItem {
 	color: #3F464C;
+	text-align: center;
 	font: 12px;
+	float: left;
 	width: 16%;
 	margin: 5%;
 }
