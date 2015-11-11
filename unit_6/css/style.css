@@ -112,7 +112,7 @@ p{
 	text-transform: lowercase;
 }
 .portfolioItem img {
-	max-width: 20%;
+	max-width: 100%;
 	border-radius: .25em;
 }
 
