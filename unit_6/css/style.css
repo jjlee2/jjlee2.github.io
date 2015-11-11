@@ -89,6 +89,7 @@ p{
 #about_text, #gallery {
 	float: left;
 	width: 75%;
+	height: 100%;
 }
 #portfolio_page {
 	background-color: #7ECEFC;
@@ -105,7 +106,7 @@ p{
 	font: 12px;
 	float: left;
 	width: 16%;
-	margin: 5%;
+	margin: auto;
 }
 .portfolioItem h3 {
 	text-transform: lowercase;
