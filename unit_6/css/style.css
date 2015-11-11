@@ -37,7 +37,6 @@ p{
 	line-height: 1.618em;
 	width: 60vw;
 	padding: 10px;
-	position: relative;
 	margin: auto;
 }
 .container {
@@ -89,7 +88,6 @@ p{
 }
 #about_text {
 	float: left;
-	margin: auto;
 	width: 75%;
 }
 #portfolio_page {
