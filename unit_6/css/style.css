@@ -105,14 +105,14 @@ p{
 	color: #3F464C;
 	font: 12px;
 	float: left;
-	width: 20%;
-	margin: 10%;
+	width: 16%;
+	margin: 5%;
 }
 .portfolioItem h3 {
 	text-transform: lowercase;
 }
 .portfolioItem img {
-	max-width: 100%;
+	max-width: 20%;
 	border-radius: .25em;
 }
 
