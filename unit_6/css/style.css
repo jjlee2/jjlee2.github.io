@@ -67,6 +67,9 @@ p{
 #contact {
 	display: block;
 	padding: 1.5em;
+	width: 55px;
+	height: 55px;
+	vertical-align: middle;
 }
 #photo {
 	background-image:url(../images/broad.png);
