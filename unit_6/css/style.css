@@ -37,7 +37,7 @@ p{
 	line-height: 1.618em;
 	overflow: hidden;
 	width: 60vw;
-	margin: 0 400px;
+	margin: 0 40%;
 	padding: 10px;
 	position: relative;
 }
@@ -73,7 +73,7 @@ p{
 	bottom: 0;
 }
 #photo {
-	background-image:url(../images/whitney1.png);
+	background-image:url(../images/broad.png);
 	background-size:cover;
 	background-repeat:no-repeat;
 	background-position:bottom;
