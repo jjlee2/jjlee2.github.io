@@ -86,7 +86,7 @@ p{
 	border-radius:.25em;
 	color: #FFFFFF;
 }
-#about_text {
+#about_text, #gallery {
 	float: left;
 	width: 75%;
 }
