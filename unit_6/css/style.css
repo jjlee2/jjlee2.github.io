@@ -131,6 +131,9 @@ address {
 .portfolioItem h3 {
 	text-transform: lowercase;
 }
+.portfolioItem p {
+	font-size: 12px;
+}
 .portfolioItem img {
 	max-width: 100%;
 	border-radius: .25em;
