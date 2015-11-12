@@ -73,6 +73,8 @@ p{
 }
 .contact_icons p {
 	text-align: left;
+	font-size: .75em;
+	color: #FFFFFF;
 }
 #photo {
 	background-image:url(../images/broad.png);
