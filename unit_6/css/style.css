@@ -125,4 +125,6 @@ address {
 	max-width: 100%;
 	border-radius: .25em;
 }
-
+footer {
+	background-color: #BDD5DF;
+}
