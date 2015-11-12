@@ -74,6 +74,9 @@ p{
 	height: 55px;
 	float: left;
 }
+.contact_icons p {
+text-align: left;
+}
 #photo {
 	background-image:url(../images/broad.png);
 	background-size:cover;
