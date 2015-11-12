@@ -122,7 +122,7 @@ address {
 }
 .portfolioItem {
 	color: #3F464C;
-	text-align: center;
+	text-align: left;
 	font: 12px;
 	float: left;
 	width: 16%;
