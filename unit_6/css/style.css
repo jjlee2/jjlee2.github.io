@@ -67,11 +67,12 @@ p{
 #contact {
 	display: block;
 	padding: 1.5em;
-	width: 55px;
-	height: 55px;
 }
 .contact_icons {
 	vertical-align: middle;
+	width: 55px;
+	height: 55px;
+	float: left;
 }
 #photo {
 	background-image:url(../images/broad.png);
