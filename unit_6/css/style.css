@@ -63,19 +63,21 @@ p{
 }
 #contact {
 	display: block;
-	margin: 0 auto;
 }
 .contact_icons {
 	vertical-align: middle;
 	width: 55px;
 	height: 55px;
 	float: left;
+	margin: 0 auto;
 }
 #contact p {
 	text-align: left;
 	font-size: .75em;
 	color: #FFFFFF;
 	vertical-align: middle;
+	margin: 0 auto;
+}
 }
 #photo {
 	background-image:url(../images/broad.png);
