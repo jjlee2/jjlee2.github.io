@@ -55,6 +55,9 @@ p{
 #home_page {
 	background-color: #FF7F66;
 }
+#home_page:hover {
+	background-color: #FFAE9C;
+}
 #portfolio {
 	background-color: #7ECEFC;
 }
