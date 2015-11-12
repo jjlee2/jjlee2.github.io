@@ -70,12 +70,12 @@ p{
 	width: 55px;
 	height: 55px;
 	float: left;
+	padding: 1.618em;
 }
 #contact p {
 	text-align: left;
 	font-size: .75em;
 	color: #FFFFFF;
-	padding: 1.618em;
 }
 #photo {
 	background-image:url(../images/broad.png);
