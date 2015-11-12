@@ -133,6 +133,7 @@ address {
 }
 .portfolioItem p {
 	font-size: 12px;
+	width: 16%;
 }
 .portfolioItem img {
 	max-width: 100%;
