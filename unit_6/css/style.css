@@ -133,18 +133,19 @@ address {
 	margin: 3%;
 	padding: 0;
 }
+.portfolioItem h3, p, img {
+	width: 19%;
+	padding: 0;
+	margin: 3%;
+}
 .portfolioItem h3 {
 	text-transform: lowercase;
 }
 .portfolioItem p {
 	font-size: .75em;
-	padding: 0;
 }
 .portfolioItem img {
 	border-radius: .25em;
-	width: 19%;
-	margin: 3%;
-	padding: 0;
 }
 footer {
 	background-color: #3F464C;
