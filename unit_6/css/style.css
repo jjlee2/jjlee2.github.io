@@ -152,9 +152,9 @@ footer {
 	border-radius:.25em;
 	margin:0 .25%;
 	padding: .50%;
-}
-footer p {
 	color: #FFFFFF;
+}
+#copywrite {
 	float: left;
 	padding: 0;
 }
