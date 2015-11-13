@@ -130,7 +130,8 @@ address {
 	float: left;
 	width: 16%;
 	height: 16%;
-	margin: 5%;
+	padding: 5%;
+	margin: auto;
 }
 .portfolioItem h3 {
 	text-transform: lowercase;
@@ -155,5 +156,20 @@ footer {
 footer p {
 	color: #FFFFFF;
 	float: left;
-	vertical-align: middle;
+	padding: 0;
+}
+#footer_menu {
+	color: #FFFFFF;
+	float: right;
+	padding: 5%;
+	margin: auto;
+}
+#footer_home:hover {
+	background-color: #FF7F66;
+}
+#footer_portfolio:hover{
+	background-color: #7ECEFC;
+}
+#footer_about:hover{
+	background-color: #328DC4;
 }
