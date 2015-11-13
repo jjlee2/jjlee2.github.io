@@ -162,7 +162,7 @@ footer p {
 	float: right;
 	padding: 5%;
 	margin: auto;
-	display: inline-block;
+	display: inline;
 }
 #footer_home:hover {
 	background-color: #FF7F66;
