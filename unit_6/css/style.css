@@ -88,7 +88,7 @@ address {
 	font-size: .75em;
 	color: #BDD5DF;
 	vertical-align: middle;
-	margin: 10%;
+	margin: 5%;
 }
 #photo {
 	background-image:url(../images/broad.png);
@@ -129,7 +129,9 @@ address {
 	text-align: left;
 	font: .75em;
 	float: left;
-	width: 20%;
+	width: 19%;
+	margin: 3%;
+	padding: 0;
 }
 .portfolioItem h3 {
 	text-transform: lowercase;
