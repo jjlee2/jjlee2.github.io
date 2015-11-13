@@ -127,7 +127,7 @@ address {
 .portfolioItem {
 	color: #3F464C;
 	text-align: left;
-	font: 12px;
+	font: .75em;
 	float: left;
 	width: 20%;
 }
@@ -154,6 +154,7 @@ footer {
 #copyright {
 	float: left;
 	padding: 0;
+	width: 20%;
 }
 #footer_menu {
 	color: #FFFFFF;
