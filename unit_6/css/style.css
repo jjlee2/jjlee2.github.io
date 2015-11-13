@@ -110,6 +110,9 @@ address {
 	width: 75%;
 	height: 100%;
 }
+#gallery {
+	margin: auto;
+}
 #portfolio_page {
 	background-color: #7ECEFC;
 	width: 24.5%;
