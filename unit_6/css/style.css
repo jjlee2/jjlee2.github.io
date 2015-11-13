@@ -32,9 +32,6 @@ p{
 	color: #3F464C;
 	text-align: left;
 	line-height: 1.618em;
-/*	width: 60vw;
-	padding: 1.5em;
-	margin: auto; */
 }
 .container {
 	height: 100vh;
@@ -69,10 +66,6 @@ p{
 }
 #about:hover{
 	background-color: #639EC4;
-}
-address {
-	margin: 0 auto;
-	font-style: normal;
 }
 .contact_icons {
 	vertical-align: middle;
@@ -110,6 +103,11 @@ address {
 	box-shadow:2px 2px 4px rgba(0,0,0,.25);
 	border-radius:.25em;
 	color: #FFFFFF;
+}
+#about_text {
+	width: 60vw;
+	padding: 1.5em;
+	margin: auto;
 }
 #about_text, #gallery {
 	float: left;
