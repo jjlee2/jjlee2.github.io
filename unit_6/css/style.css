@@ -129,18 +129,20 @@ address {
 	text-align: left;
 	font: 12px;
 	float: left;
-	width: 16%;
-	padding: 5%;
+	width: 20%;
+	padding: 2%;
 }
 .portfolioItem h3 {
 	text-transform: lowercase;
+	width: 16%;
 }
 .portfolioItem p {
 	font-size: .75em;
 	padding: 0;
+	width: 16%;
 }
 .portfolioItem img {
-	max-width: 100%;
+	width: 16%;
 	border-radius: .25em;
 }
 footer {
