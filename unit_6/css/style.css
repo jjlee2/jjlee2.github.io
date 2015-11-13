@@ -111,9 +111,9 @@ address {
 	width: 75%;
 	height: 100%;
 }
-#gallery {
+/*#gallery {
 	margin: 0 auto;
-}
+}*/
 #portfolio_page {
 	background-color: #7ECEFC;
 	width: 24.5%;
@@ -136,7 +136,7 @@ address {
 	text-transform: lowercase;
 }
 .portfolioItem p {
-	font-size: 12px;
+	font-size: .75em;
 	padding: 0;
 }
 .portfolioItem img {
@@ -153,7 +153,7 @@ footer {
 	padding: .50%;
 	color: #FFFFFF;
 }
-#copywrite {
+#copyright {
 	float: left;
 	padding: 0;
 }
