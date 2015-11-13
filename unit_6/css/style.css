@@ -159,6 +159,7 @@ footer {
 	color: #FFFFFF;
 	float: right;
 	padding: 5%;
+	width: 50%;
 	display: inline;
 }
 #footer_home:hover {
