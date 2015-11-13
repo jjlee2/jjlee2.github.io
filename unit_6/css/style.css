@@ -32,9 +32,9 @@ p{
 	color: #3F464C;
 	text-align: left;
 	line-height: 1.618em;
-	width: 60vw;
+/*	width: 60vw;
 	padding: 1.5em;
-	margin: auto;
+	margin: auto; */
 }
 .container {
 	height: 100vh;
@@ -70,9 +70,6 @@ p{
 #about:hover{
 	background-color: #639EC4;
 }
-#contact {
-	display: block;
-}
 address {
 	margin: 0 auto;
 	font-style: normal;
@@ -82,6 +79,14 @@ address {
 	width: 55px;
 	height: 55px;
 	float: left;
+}
+#contact {
+	display:block;
+	margin:auto;
+	width: 16em;
+}
+#contact div {
+	overflow:hidden;
 }
 #contact p {
 	text-align: left;
@@ -127,16 +132,14 @@ address {
 .portfolioItem {
 	color: #3F464C;
 	text-align: left;
-	font: .75em;
 	float: left;
 	width: 19%;
 	margin: 3%;
 	padding: 0;
 }
-.portfolioItem h3, p, img {
-	width: 19%;
-	padding: 0;
-	margin: 3%;
+.portfolioItem h3, .portfolioItem p, .portfolioItem img {
+	width: 100%;
+	margin-bottom:.5em;
 }
 .portfolioItem h3 {
 	text-transform: lowercase;
