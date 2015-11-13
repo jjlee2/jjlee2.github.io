@@ -164,11 +164,11 @@ footer {
 	float: left;
 	padding: 0;
 	width: 20%;
+	color: #FFFFFF;
 }
 #footer_menu {
 	color: #FFFFFF;
 	float: right;
-	padding: 5%;
 	width: 50%;
 	display: inline;
 }
