@@ -130,19 +130,15 @@ address {
 	font: 12px;
 	float: left;
 	width: 20%;
-	padding: 2%;
 }
 .portfolioItem h3 {
 	text-transform: lowercase;
-	width: 16%;
 }
 .portfolioItem p {
 	font-size: .75em;
 	padding: 0;
-	width: 16%;
 }
 .portfolioItem img {
-	width: 16%;
 	border-radius: .25em;
 }
 footer {
