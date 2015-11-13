@@ -112,7 +112,7 @@ address {
 	height: 100%;
 }
 #gallery {
-	margin: auto;
+	margin: 0 auto;
 }
 #portfolio_page {
 	background-color: #7ECEFC;
