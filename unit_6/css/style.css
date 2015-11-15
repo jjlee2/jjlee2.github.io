@@ -172,6 +172,7 @@ footer {
 	float: right;
 	padding: 2em;
 	display: inline;
+	position: relative;
 	margin: auto;
 }
 .clearfix: after {
