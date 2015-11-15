@@ -227,6 +227,9 @@ h1 a, h2 a {
 }
 
 @media only screen and (max-width: 1150px) {
+body {
+	font-size: 12px;
+}
 #home_page, #portfolio_page, #about_page, #photo {
 	float: none;
 }
