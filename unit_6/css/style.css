@@ -213,8 +213,8 @@ body {
 	font-size: 13px;
 }
 h1, h2 {
-	font-size: 2em;
+	font-size: 1.75em;
 	padding: 0;
-	line-height: 1.5em;
+	line-height: .75em;
 }
 }
