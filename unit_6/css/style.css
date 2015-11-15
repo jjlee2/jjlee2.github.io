@@ -142,6 +142,7 @@ p{
 }
 .portfolioItem h3 {
 	text-transform: lowercase;
+	text-align: right;
 }
 .portfolioItem p {
 	font-size: .75em;
