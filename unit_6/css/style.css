@@ -150,23 +150,24 @@ p{
 }
 footer {
 	background-color: #3F464C;
-	width: 99.5%;
+	width: 100%%;
 	box-shadow:2px 2px 4px rgba(0,0,0,.25);
 	border-radius:.25em;
 	margin:0 .25%;
 	color: #FFFFFF;
+	padding: 2em;
 }
 #copyright {
 	float: left;
-	padding: 7em;
 	width: 20%;
 	color: #FFFFFF;
+	padding: 2em;
 }
 #clearfix {
 	color: #FFFFFF;
 	float: right;
 	width: 50%;
-	padding: 7em;
+	padding: 2em;
 }
 #footer_home:hover {
 	background-color: #FF7F66;
