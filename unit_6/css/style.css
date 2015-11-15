@@ -157,6 +157,7 @@ footer {
 	color: #FFFFFF;
 	float: left;
 	padding: 2em;
+	overflow: hidden;
 }
 #copyright {
 	float: left;
