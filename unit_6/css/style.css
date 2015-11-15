@@ -189,4 +189,5 @@ nav {
 nav a {
 	padding: 2em;
 	margin: auto
+	position: relative;
 }
