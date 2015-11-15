@@ -155,6 +155,7 @@ footer {
 	border-radius:.25em;
 	margin:0 .50%;
 	color: #FFFFFF;
+	float: left;
 	padding: 2em;
 }
 #copyright {
