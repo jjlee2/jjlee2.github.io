@@ -53,19 +53,19 @@ p{
 	background-color: #FF7F66;
 }
 #home_page:hover {
-	background-color: #FBC7B6;
+	background-color: #F8AD99;
 }
 #portfolio {
 	background-color: #7ECEFC;
 }
 #portfolio:hover{
-	background-color: #CDE7F8;
+	background-color: #B5DDF5;
 }
 #about {
 	background-color: #328DC4;
 }
 #about:hover{
-	background-color: #ADC7E3;
+	background-color: #88B1D8;
 }
 .contact_icons {
 	vertical-align: middle;
