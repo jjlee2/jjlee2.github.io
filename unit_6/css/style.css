@@ -172,8 +172,6 @@ footer {
 	float: right;
 	padding: 2em;
 	display: inline;
-	position: relative;
-	margin: auto;
 }
 .clearfix: after {
 	visibility: hidden;
@@ -185,4 +183,5 @@ footer {
 }
 nav a {
 	padding: 2em;
+	margin: auto
 }
