@@ -150,6 +150,7 @@ p{
 }
 .portfolioItem img {
 	border-radius: .25em;
+	margin: 1.618em;
 }
 footer {
 	background-color: #3F464C;
