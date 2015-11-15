@@ -32,6 +32,7 @@ p{
 	color: #3F464C;
 	text-align: left;
 	line-height: 1.618em;
+	margin: auto;
 }
 .container {
 	height: 100vh;
