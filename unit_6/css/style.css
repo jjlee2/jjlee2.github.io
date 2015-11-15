@@ -168,13 +168,12 @@ footer {
 #clearfix {
 	color: #FFFFFF;
 	float: right;
-	width: 50%;
 	padding: 2em;
 	display: inline;
 }
 .clearfix: after {
 	visibility: hidden;
-	display: block;
+	display: inline;
 	content: " ";
 	clear: both;
 	height: 0;
