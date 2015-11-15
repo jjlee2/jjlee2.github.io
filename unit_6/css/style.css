@@ -162,8 +162,7 @@ footer {
 	width: 20%;
 	color: #FFFFFF;
 	padding: 2em;
-	vertical-align: middle;
-	line-height: normal;
+	position: relative;
 	margin: auto;
 }
 #clearfix {
