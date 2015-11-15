@@ -105,9 +105,9 @@ p{
 	color: #FFFFFF;
 }
 #about_text {
-	width: 60vw;
+	width: 60%;
 	padding: 1.5em;
-	margin: auto;
+	margin: 0 auto;
 }
 #about_text, #gallery {
 	float: left;
