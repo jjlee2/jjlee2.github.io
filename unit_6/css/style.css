@@ -185,9 +185,9 @@ nav {
 	display: inline;
 	float: right;
 	margin: auto;
+	position: relative;
 }
 nav a {
 	padding: 2em;
 	margin: auto
-	position: relative;
 }
