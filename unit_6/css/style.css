@@ -182,6 +182,9 @@ footer {
 	height: 0;
 	font-size: 0;
 }
+nav {
+	display: inline;
+}
 nav a {
 	padding: 2em;
 	margin: auto
