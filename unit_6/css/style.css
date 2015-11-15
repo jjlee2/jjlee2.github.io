@@ -172,6 +172,7 @@ footer {
 	float: right;
 	padding: 2em;
 	display: inline;
+	width: 60%;
 }
 .clearfix: after {
 	visibility: hidden;
