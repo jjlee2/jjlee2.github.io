@@ -177,3 +177,11 @@ footer {
 #footer_about:hover{
 	background-color: #328DC4;
 }
+.clearfix: after {
+	visibility: hidden;
+	display: block;
+	content: " ";
+	clear: both;
+	height: 0;
+	font-size: 0;
+}
