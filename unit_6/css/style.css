@@ -34,6 +34,9 @@ p{
 	line-height: 1.618em;
 	margin: 1.618em;
 }
+li {
+	list-style-type: none;
+}
 .container {
 	height: 100vh;
 	padding: 3.5% .50%;
