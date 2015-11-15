@@ -210,11 +210,10 @@ nav a {
 }
 @media only screen and (max-width: 1290px) {
 body {
-	font-size: 13px;
+	font-size: 14px;
 }
 h1, h2 {
-	font-size: 1.75em;
-	padding: 0;
+	font-size: 2em;
 	line-height: .75em;
 	margin: 0;
 }
