@@ -217,4 +217,7 @@ h1, h2 {
 	padding: 0;
 	line-height: .75em;
 }
+h1 a, h2 a {
+	width: 100%;
+}
 }
