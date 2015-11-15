@@ -230,7 +230,7 @@ h1 a, h2 a {
 body {
 	font-size: 12px;
 }
-#home_page, #portfolio_page, #about_page, #photo {
+#home_page, #portfolio, #portfolio_page, #about, #about_page, #photo {
 	float: none;
 	height: 30%;
 	display: block;
