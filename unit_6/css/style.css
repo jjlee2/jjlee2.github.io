@@ -180,3 +180,6 @@ footer {
 	height: 0;
 	font-size: 0;
 }
+nav a {
+	padding: 2em;
+}
