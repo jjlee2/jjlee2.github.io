@@ -123,6 +123,12 @@ li {
 	width: 75%;
 	height: 100%;
 }
+#contact_line {
+	display: inline-block;
+	background-color: #FFFFFF;
+	color: #3F464C;
+	margin: 0 auto;
+}
 #gallery {
 	margin: 0 auto;
 }
