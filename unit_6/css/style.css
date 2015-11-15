@@ -145,6 +145,7 @@ p{
 }
 .portfolioItem p {
 	font-size: .75em;
+	margin: 0 auto;
 }
 .portfolioItem img {
 	border-radius: .25em;
