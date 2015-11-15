@@ -169,7 +169,6 @@ footer {
 }
 #clearfix {
 	color: #FFFFFF;
-	float: right;
 	padding: 2em;
 	display: inline;
 	width: 60%;
@@ -184,6 +183,7 @@ footer {
 }
 nav {
 	display: inline;
+	float: right;
 }
 nav a {
 	padding: 2em;
