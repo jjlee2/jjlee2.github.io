@@ -232,5 +232,10 @@ body {
 }
 #home_page, #portfolio_page, #about_page, #photo {
 	float: none;
+	height: 30;
+}
+
+#portfolioItem {
+	float: none;
 }
 }
