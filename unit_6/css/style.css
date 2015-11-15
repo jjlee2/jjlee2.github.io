@@ -162,7 +162,7 @@ footer {
 	width: 20%;
 	color: #FFFFFF;
 }
-#footer_menu {
+#clearfix {
 	color: #FFFFFF;
 	float: right;
 	width: 50%;
