@@ -87,6 +87,9 @@ li {
 	margin:auto;
 	width: 16em;
 }
+#contact img {
+	vertical-align: middle;
+}
 #contact div {
 	overflow:hidden;
 }
@@ -221,4 +224,8 @@ h1 a, h2 a {
 	width: 100%;
 	padding: 0;
 }
+}
+
+@media only screen and (max-width 1150px) {
+
 }
