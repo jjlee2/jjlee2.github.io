@@ -158,7 +158,7 @@ footer {
 }
 #copyright {
 	float: left;
-	padding: 0;
+	padding: 7em;
 	width: 20%;
 	color: #FFFFFF;
 }
@@ -166,7 +166,7 @@ footer {
 	color: #FFFFFF;
 	float: right;
 	width: 50%;
-	display: inline;
+	padding: 7em;
 }
 #footer_home:hover {
 	background-color: #FF7F66;
