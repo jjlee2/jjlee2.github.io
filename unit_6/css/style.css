@@ -184,6 +184,7 @@ footer {
 nav {
 	display: inline;
 	float: right;
+	margin: auto;
 }
 nav a {
 	padding: 2em;
