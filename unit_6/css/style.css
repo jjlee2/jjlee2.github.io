@@ -36,6 +36,8 @@ p{
 }
 li {
 	list-style-type: none;
+	color: #3F464C;
+	text-align: left;
 }
 .container {
 	height: 100vh;
