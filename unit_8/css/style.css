@@ -236,7 +236,7 @@ body {
 }
 #home_page, #portfolio, #portfolio_page, #about, #about_page, #photo {
 	float: none;
-	height: 30%;
+	height: 35%;
 	display: block;
 	width: 100%;
 	margin: 1.618em;
@@ -251,6 +251,10 @@ body {
 	clear: both;
 	height: 0;
 	font-size: 0;
+}
+#logo {
+	width: 50%;
+	height: 50%
 }
 #gallery {
 	width: 100%;
