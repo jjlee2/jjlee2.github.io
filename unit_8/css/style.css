@@ -239,6 +239,7 @@ body {
 	height: 30%;
 	display: block;
 	width: 100%;
+	margin: 1.618em;
 }
 #portfolioItem {
 	float: none;
