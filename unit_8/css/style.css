@@ -255,7 +255,7 @@ body {
 #gallery {
 	width: 100%;
 }
-#portfolioItem {
+.portfolioItem {
 	float: none;
 	margin: 1.618;
 }
