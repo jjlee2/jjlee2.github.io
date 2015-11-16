@@ -255,8 +255,10 @@ body {
 #gallery {
 	width: 100%;
 }
+#photo {
+	background-image: url(../images/broad2.png);
+}
 .portfolioItem {
-	float: none;
 	margin: 1.618;
 }
 #about_text {
