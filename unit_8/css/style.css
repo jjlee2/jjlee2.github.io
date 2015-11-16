@@ -253,8 +253,11 @@ body {
 	font-size: 0;
 }
 #gallery {
-	float: none;
 	width: 100%;
+}
+#portfolioItem {
+	float: none;
+	margin: 1.618;
 }
 #about_text {
 	width: 100%;
