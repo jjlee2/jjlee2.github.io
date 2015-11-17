@@ -246,10 +246,11 @@ h1, h2 {
 }
 #contact {
 	margin: 0 auto;
+	width: 100%;
 }
 #contact div {
 	float: left;
-	display: inline-block;
+	display: block;
 }
 #contact p {
 	margin: 3% 5%;
