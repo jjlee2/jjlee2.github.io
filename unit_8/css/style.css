@@ -80,7 +80,6 @@ li {
 	background-color: #88B1D8;
 }
 .contact_icons {
-	vertical-align: middle;
 	width: 55px;
 	height: 55px;
 	float: left;
@@ -88,7 +87,7 @@ li {
 }
 #contact {
 	display:block;
-	margin: 0 auto;
+	margin: auto;
 	width: 16em;
 }
 #contact img {
