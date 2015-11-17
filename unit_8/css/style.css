@@ -240,10 +240,13 @@ body {
 	display: block;
 	width: 99.5%;
 	padding: 1em;
-	margin: .25%;
+	margin: .50% .25%;
 }
 h1, h2 {
 	padding: 1em;
+}
+#contact {
+	width: 20%;
 }
 #portfolioItem {
 	float: none;
