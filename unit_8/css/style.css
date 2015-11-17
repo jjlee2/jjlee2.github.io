@@ -89,7 +89,7 @@ li {
 #contact {
 	display:block;
 	margin: 0 auto;
-	width: 50%;
+	width: 16em;
 }
 #contact img {
 	vertical-align: middle;
@@ -102,7 +102,7 @@ li {
 	font-size: .75em;
 	color: #BDD5DF;
 	vertical-align: middle;
-	margin: 1.618em;
+	margin: 0 1.618em 0;
 }
 #photo {
 	background-image:url(../images/broad.png);
