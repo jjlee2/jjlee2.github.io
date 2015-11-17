@@ -256,6 +256,7 @@ h1, h2 {
 }
 #contact p {
 	margin: 3% 5%;
+	text-align: justify;
 }
 .contact_icons {
 	width: 15%;
