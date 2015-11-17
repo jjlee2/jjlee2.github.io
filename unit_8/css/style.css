@@ -248,6 +248,7 @@ h1, h2 {
 	margin: 0 auto;
 	overflow: hidden;
 	float: left;
+	display: inline-block;
 	width: 30%;
 }
 #contact p {
