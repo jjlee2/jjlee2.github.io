@@ -261,6 +261,9 @@ h1, h2 {
 	width: 50%;
 	height: 50%
 }
+#contact {
+	width: 100%;
+}
 .contact_icons {
 	width: 20%;
 	height: 20%;
