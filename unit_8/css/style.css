@@ -253,6 +253,7 @@ h1, h2 {
 	float: left;
 	display: inline-block;
 	width: 30%;
+	padding: .20em;
 }
 #contact p {
 	margin: 3% 5%;
