@@ -247,9 +247,11 @@ h1, h2 {
 #contact {
 	margin: 0 auto;
 	overflow: hidden;
+	width: 25%;
+}
+#contact div {
 	float: left;
 	display: inline-block;
-	width: 40%;
 }
 #contact p {
 	margin: 3% 5%;
