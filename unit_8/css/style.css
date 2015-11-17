@@ -245,7 +245,7 @@ h1, h2 {
 	padding: .6em;
 }
 #contact {
-	width: 20%;
+	width: 40%;
 }
 #portfolioItem {
 	float: none;
@@ -264,6 +264,7 @@ h1, h2 {
 }
 .contact_icons {
 	width: 20%;
+	height: 20%;
 	text-align: center;
 }
 #gallery {
