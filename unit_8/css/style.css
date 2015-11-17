@@ -102,7 +102,7 @@ li {
 	font-size: .75em;
 	color: #BDD5DF;
 	vertical-align: middle;
-	margin: 5%;
+	margin: 1.618em 0;
 }
 #photo {
 	background-image:url(../images/broad.png);
@@ -129,12 +129,6 @@ li {
 	float: left;
 	width: 75%;
 	height: 100%;
-}
-#contact_line {
-	display: inline-block;
-	background-color: #FFFFFF;
-	color: #3F464C;
-	margin: 0 auto;
 }
 #gallery {
 	margin: 0 auto;
@@ -245,7 +239,7 @@ body {
 	margin: .50% .25%;
 }
 h1, h2 {
-	padding: 1em;
+	padding: .618em;
 }
 #contact {
 	width: 20%;
@@ -264,6 +258,10 @@ h1, h2 {
 #logo {
 	width: 50%;
 	height: 50%
+}
+.contact_icons {
+	width: 70%;
+	height: 70%;
 }
 #gallery {
 	width: 100%;
