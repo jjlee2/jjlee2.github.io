@@ -249,8 +249,7 @@ h1, h2 {
 }
 #contact div {
 	float: left;
-	display: block;
-	width: 100%;
+	width: 30%;
 }
 #contact p {
 	margin: 3% 5%;
