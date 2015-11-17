@@ -84,6 +84,7 @@ li {
 	height: 55px;
 	float: left;
 	max-width: 100%
+	vertical-align: middle;
 }
 #contact {
 	display:block;
