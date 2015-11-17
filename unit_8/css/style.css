@@ -246,6 +246,7 @@ h1, h2 {
 }
 #contact {
 	width: 25%;
+	margin: 0 auto;
 }
 #contact p {
 	margin: 3% 5%;
