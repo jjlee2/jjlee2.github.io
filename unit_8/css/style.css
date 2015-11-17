@@ -262,6 +262,7 @@ h1, h2 {
 .contact_icons {
 	width: 20%;
 	height: 20%;
+	text-align: center;
 }
 #gallery {
 	width: 100%;
