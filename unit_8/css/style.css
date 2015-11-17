@@ -247,6 +247,9 @@ h1, h2 {
 #contact {
 	width: 25%;
 }
+#contact p {
+	margin: 3% 5%;
+}
 #portfolioItem {
 	float: none;
 }
