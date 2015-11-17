@@ -103,6 +103,7 @@ li {
 	color: #BDD5DF;
 	vertical-align: middle;
 	margin: 5%;
+	line-height: normal;
 }
 #photo {
 	background-image:url(../images/broad.png);
