@@ -88,8 +88,8 @@ li {
 }
 #contact {
 	display:block;
-	margin:auto;
-	width: 20em;
+	margin: 0 auto;
+	width: 50%;
 }
 #contact img {
 	vertical-align: middle;
