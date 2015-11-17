@@ -262,6 +262,13 @@ h1, h2 {
 	text-align: center;
 	vertical-align: middle;
 }
+#portfolio_page, #about_page {
+	float: none;
+	height: 23.875%;
+	width: 98.5%;
+	margin: .50% .25%;
+	display: block;
+}
 #portfolioItem {
 	float: none;
 }
