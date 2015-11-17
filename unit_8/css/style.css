@@ -96,6 +96,7 @@ li {
 }
 #contact div {
 	overflow:hidden;
+	width: 100%;
 }
 #contact p {
 	text-align: left;
