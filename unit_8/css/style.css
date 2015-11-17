@@ -235,7 +235,7 @@ body {
 }
 #home_page, #portfolio, #about, #photo {
 	float: none;
-	height: 25%;
+	height: 23.875%;
 	display: block;
 	width: 98.5%;
 	margin: .50% .25%;
