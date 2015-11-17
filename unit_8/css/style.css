@@ -247,11 +247,8 @@ h1, h2 {
 #contact {
 	margin: 0 auto;
 	overflow: hidden;
-	width: 90%;
-}
-#contact div {
 	float: left;
-	width: 70%;
+	width: 30%;
 }
 #contact p {
 	margin: 3% 5%;
