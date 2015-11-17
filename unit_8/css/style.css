@@ -232,7 +232,7 @@ h1 a, h2 a {
 
 @media only screen and (max-width: 1150px) {
 body {
-	font-size: 12px;
+	font-size: 13px;
 }
 .container {
 	padding: 1% .50%;
