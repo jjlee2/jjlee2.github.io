@@ -234,12 +234,12 @@ h1 a, h2 a {
 body {
 	font-size: 12px;
 }
-#home_page, #portfolio, #portfolio_page, #about, #about_page, #photo {
+#home_page, #portfolio, #about, #photo {
 	float: none;
 	height: 35%;
 	display: block;
-	width: 100%;
-	margin: 1.618em;
+	width: 99.5%;
+	padding: 1em;
 }
 #portfolioItem {
 	float: none;
