@@ -273,6 +273,10 @@ h1, h2 {
 	margin: .50% .25%;
 	display: block;
 }
+#about_page h2 {
+	padding: .55em;
+	margin: 0;
+}
 #portfolioItem {
 	float: none;
 }
