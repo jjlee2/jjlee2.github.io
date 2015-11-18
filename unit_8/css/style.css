@@ -300,3 +300,9 @@ h1, h2 {
 	margin: 1.618;
 }
 }
+@media only screen and (max-width: 600px) {
+#portfolioItem {
+	float: left;
+	width: 44%;
+}
+}
