@@ -252,7 +252,7 @@ h1, h2 {
 #contact div {
 	float: left;
 	display: inline-block;
-	width: 30%;
+	width: 25%;
 	padding: .20em;
 }
 #contact p {
@@ -261,8 +261,8 @@ h1, h2 {
 	width: auto;
 }
 .contact_icons {
-	width: 15%;
-	height: 15%;
+	width: 20%;
+	height: 20%;
 	text-align: center;
 	vertical-align: middle;
 }
