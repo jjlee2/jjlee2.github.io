@@ -273,11 +273,6 @@ h1, h2 {
 	margin: .50% .25%;
 	display: block;
 }
-#about_page h2 {
-	padding: .55em;
-	margin: 0;
-	text-align: top;
-}
 #portfolioItem {
 	float: none;
 }
@@ -294,7 +289,8 @@ h1, h2 {
 	height: 50%;
 }
 #gallery {
-	width: 100%;
+	width: auto;
+	height: 21.875%;
 }
 #photo {
 	background-image: url(../images/broad2.png);
