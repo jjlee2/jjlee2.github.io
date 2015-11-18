@@ -301,9 +301,15 @@ h1, h2 {
 }
 }
 @media only screen and (max-width: 600px) {
+	body {
+		font-size: 13px;
+	}
 .portfolioItem {
 	float: left;
 	width: 44%;
+}
+.portfolioItem p, .portfolioItem h3 {
+	font-size: .5em;
 }
 #gallery {
 	height: 71.125%;
