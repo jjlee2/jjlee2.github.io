@@ -276,6 +276,7 @@ h1, h2 {
 #about_page h2 {
 	padding: .55em;
 	margin: 0;
+	text-align: top;
 }
 #portfolioItem {
 	float: none;
