@@ -252,7 +252,7 @@ h1, h2 {
 #contact div {
 	float: left;
 	display: inline-block;
-	width: 25%;
+	width: 30%;
 	padding: .20em;
 }
 #contact p {
@@ -299,5 +299,6 @@ h1, h2 {
 }
 #about_text {
 	width: 100%;
+	text-align: justify;
 }
 }
