@@ -229,9 +229,6 @@ h1 a, h2 a {
 }
 
 @media only screen and (max-width: 1150px) {
-body {
-	font-size: 14px;
-}
 .container {
 	padding: 2% .50%;
 }
@@ -301,9 +298,6 @@ h1, h2 {
 }
 }
 @media only screen and (max-width: 600px) {
-body {
-	font-size: 13px;
-	}
 .portfolioItem {
 	float: left;
 	width: 44%;
