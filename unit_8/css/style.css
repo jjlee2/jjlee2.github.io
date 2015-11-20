@@ -314,4 +314,7 @@ body {
 #gallery {
 	height: 71.125%;
 }
+#portfolio_page, #about_page, footer {
+	height: auto;
+}
 }
