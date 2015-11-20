@@ -269,7 +269,7 @@ h1, h2 {
 }
 #portfolio_page, #about_page {
 	float: none;
-	height: 23.875%;
+	height: auto;
 	width: 98.5%;
 	margin: .50% .25%;
 	display: block;
@@ -291,7 +291,7 @@ h1, h2 {
 }
 #gallery, #about_text {
 	width: 100%;
-	height: 71.125%;
+	height: auto%;
 }
 #photo {
 	background-image: url(../images/broad2.png);
@@ -301,8 +301,8 @@ h1, h2 {
 }
 }
 @media only screen and (max-width: 600px) {
-	body {
-		font-size: 13px;
+body {
+	font-size: 13px;
 	}
 .portfolioItem {
 	float: left;
