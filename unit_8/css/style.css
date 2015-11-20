@@ -307,6 +307,7 @@ body {
 .portfolioItem {
 	float: left;
 	width: 44%;
+	height: auto;
 }
 .portfolioItem p, .portfolioItem h3 {
 	font-size: .5em;
