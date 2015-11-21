@@ -266,7 +266,7 @@ h1, h2 {
 }
 #portfolio_page, #about_page {
 	float: none;
-	height: 23.875%;
+	height: auto;
 	width: 98.5%;
 	margin: .50% .25%;
 	display: block;
