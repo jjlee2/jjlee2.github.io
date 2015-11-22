@@ -61,24 +61,24 @@ li {
 #home_page {
 	background-color: #FF7F66;
 }
-#home_page:hover {
+/*#home_page:hover {
 	background-color: #F8AD99;
-}
+}*/
 #logo {
 	max-width: 100%
 }
 #portfolio {
 	background-color: #7ECEFC;
 }
-#portfolio:hover{
+/*#portfolio:hover{
 	background-color: #B5DDF5;
-}
+}*/
 #about {
 	background-color: #328DC4;
 }
-#about:hover{
+/*#about:hover{
 	background-color: #88B1D8;
-}
+}*/
 .contact_icons {
 	width: 55px;
 	height: 55px;
