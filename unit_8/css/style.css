@@ -256,7 +256,7 @@ h1, h2 {
 #contact {
 	overflow: hidden;
 	width: 80%;
-	margin: 0 auto;
+	margin: 0 15%;
 }
 #contact div {
 	float: left;
@@ -268,6 +268,12 @@ h1, h2 {
 	margin: 3% 5%;
 	text-align: justify;
 	width: auto;
+}
+#phone_number {
+	width: 80%;
+}
+#email_address {
+	width: 100%;
 }
 .contact_icons {
 	width: 20%;
