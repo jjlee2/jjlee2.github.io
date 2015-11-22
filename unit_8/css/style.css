@@ -154,6 +154,11 @@ li {
 	width: 19%;
 	margin: 3%;
 	padding: 0;
+	-webkit-transition: all 1s ease;
+     -moz-transition: all 1s ease;
+       -o-transition: all 1s ease;
+      -ms-transition: all 1s ease;
+          transition: all 1s ease;
 }
 .portfolioItem h3, .portfolioItem p, .portfolioItem img {
 	width: 100%;
@@ -169,6 +174,9 @@ li {
 }
 .portfolioItem img {
 	border-radius: .25em;
+}
+.portfolioItem:hover {
+	-webkit-filter: grayscale(100%);
 }
 footer {
 	background-color: #3F464C;
