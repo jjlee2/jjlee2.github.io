@@ -319,7 +319,7 @@ footer {
 }
 @media only screen and (max-width: 920px) {
 #contact {
-	margin: .1em;
+	margin: auto;
 	width: 90%;
 }
 #contact p {
@@ -330,6 +330,7 @@ footer {
 	display: inline-block;
 	float: left;
 	margin: 0.5em;
+	width: auto;
 }
 .portfolioItem {
 	float: left;
