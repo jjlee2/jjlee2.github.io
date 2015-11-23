@@ -242,6 +242,7 @@ h1 a, h2 a {
 @media only screen and (max-width: 1150px) {
 .container {
 	padding: 2% .50%;
+	height: auto;
 }
 #home_page, #portfolio, #about, #photo {
 	float: none;
@@ -312,6 +313,9 @@ h1, h2 {
 }
 .portfolioItem {
 	margin: 1.618;
+}
+footer {
+	padding: 1em;
 }
 }
 @media only screen and (max-width: 600px) {
