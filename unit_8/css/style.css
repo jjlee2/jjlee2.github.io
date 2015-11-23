@@ -241,14 +241,14 @@ h1 a, h2 a {
 
 @media only screen and (max-width: 1150px) {
 .container {
-	padding: .5% .50%;
+	padding: .50%;
 }
 #home_page, #portfolio, #about, #photo {
 	float: none;
-	height: 23.0625%;
+	height: 23%;
 	display: block;
 	width: 98.5%;
-	margin: .75% .25%;
+	margin: .875% .25%;
 }
 h1, h2 {
 	padding: .55em;
@@ -265,7 +265,7 @@ h1, h2 {
 	padding: .20em;
 }
 #contact p {
-	margin: 3% 5%;
+	margin: 6% 5%;
 	text-align: justify;
 	width: auto;
 }
