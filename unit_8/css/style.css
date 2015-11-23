@@ -317,7 +317,7 @@ footer {
 	padding: 1em;
 }
 }
-@media only screen and (max-width: 920px) {
+@media only screen and (min-width: 920px) {
 #contact {
 	margin: 0% 15%;
 }
