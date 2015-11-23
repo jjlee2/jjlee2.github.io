@@ -270,7 +270,7 @@ h1, h2 {
 	width: auto;
 }
 #phone_number {
-	width: 80%;
+	width: 100%;
 }
 #email_address {
 	width: 100%;
@@ -318,6 +318,9 @@ footer {
 }
 }
 @media only screen and (max-width: 920px) {
+.container {
+	padding: .50%;
+}
 #contact {
 	margin: auto;
 	width: 90%;
