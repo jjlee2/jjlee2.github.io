@@ -338,9 +338,6 @@ footer {
 	margin: 0.3em;
 	width: 30%;
 }
-.portfolioItem img {
-	width: 50%;
-}
 .portfolioItem {
 	float: left;
 	width: auto;
