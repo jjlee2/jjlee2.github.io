@@ -319,7 +319,7 @@ footer {
 }
 @media only screen and (max-width: 920px) {
 #contact {
-	margin-left: 15%;
+	margin: 0 15%;
 }
 .portfolioItem {
 	float: none;
