@@ -241,7 +241,7 @@ h1 a, h2 a {
 
 @media only screen and (max-width: 1150px) {
 .container {
-	padding: 2% .50%;
+	padding: 1% .50%;
 }
 #home_page, #portfolio, #about, #photo {
 	float: none;
@@ -256,7 +256,7 @@ h1, h2 {
 #contact {
 	overflow: hidden;
 	width: 80%;
-	margin: 0 15%;
+	margin: .5% 15%;
 }
 #contact div {
 	float: left;
