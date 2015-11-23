@@ -329,6 +329,9 @@ footer {
 	margin: 0 1.5em;
 	display: inline-block;
 }
+#email_address {
+	width: 100%;
+}
 .portfolioItem {
 	float: left;
 	width: auto;
