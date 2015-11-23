@@ -329,8 +329,8 @@ footer {
 #contact div {
 	display: inline-block;
 	float: left;
-	margin: 0.5em;
-	width: auto;
+	margin: 0.3em;
+	width: 30%;
 }
 .portfolioItem {
 	float: left;
