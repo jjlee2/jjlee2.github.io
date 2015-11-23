@@ -321,8 +321,12 @@ footer {
 #contact {
 	margin: 0 1.5em;
 }
+#contact p {
+	margin-left: 2em;
+}
 #contact div {
 	margin: 0 1.5em;
+	display: inline-block;
 }
 .portfolioItem {
 	float: left;
