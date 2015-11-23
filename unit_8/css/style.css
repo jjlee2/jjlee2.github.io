@@ -324,14 +324,12 @@ footer {
 }
 #contact p {
 	margin-left: 4em;
+	width: 33%;
 }
 #contact div {
 	display: inline-block;
 	float: left;
 	margin: 0.5em;
-}
-#email_address {
-	width: 100%;
 }
 .portfolioItem {
 	float: left;
