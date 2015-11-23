@@ -241,7 +241,7 @@ h1 a, h2 a {
 
 @media only screen and (max-width: 1150px) {
 .container {
-	padding: 1% .50%;
+	padding: .5% .50%;
 }
 #home_page, #portfolio, #about, #photo {
 	float: none;
