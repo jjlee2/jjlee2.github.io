@@ -321,6 +321,9 @@ footer {
 .container {
 	padding: .50%;
 }
+.container #portfolio_page {
+	height: auto;
+}
 #contact {
 	margin: auto;
 	width: 90%;
