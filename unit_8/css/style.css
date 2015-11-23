@@ -340,7 +340,7 @@ footer {
 }
 .portfolioItem {
 	float: left;
-	width: auto;
+	width: 19%;
 	height: auto;
 }
 .portfolioItem p, .portfolioItem h3 {
