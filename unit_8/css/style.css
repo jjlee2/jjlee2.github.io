@@ -148,12 +148,13 @@ li {
 	position: absolute;
 	bottom: 0;
 	right: 0;
-	text-align: justify;
+	text-align: right;
 	width: 70%;
 }
 #contact2 a {
 	color: #3F464C;
 	margin: 1.618em;
+	text-align: right;
 }
 #contact2 a: visited {
 	color: #3F464C;
