@@ -118,6 +118,7 @@ li {
 	padding: 3% .50%;
 	width: 100%;
 	text-align: center;
+	margin: 0.25%;
 	/*vertical-align: bottom;*/ 
 	background-color: #FFFFFF;
 }
@@ -363,5 +364,8 @@ footer {
 #linkedin {
 	margin-left: 30%;
 	padding-left: 30%;
+}
+.portfolioItem {
+	width: 24%;
 }
 }
