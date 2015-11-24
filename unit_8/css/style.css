@@ -328,7 +328,7 @@ footer {
 .container {
 	padding: .50%;
 }
-#gallery {
+#gallery, #about_text {
 	height: auto;
 }
 #contact {
