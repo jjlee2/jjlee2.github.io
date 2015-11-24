@@ -359,10 +359,7 @@ footer {
 #contact img {
 	width: 25%;
 	height: 25%;
-}
-#linkedin {
-	position: absolute;
-	left: -10px;
+	padding-left: 0;
 }
 .portfolioItem {
 	width: 24%;
