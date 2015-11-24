@@ -113,6 +113,14 @@ li {
 	background-repeat:no-repeat;
 	background-position:bottom;
 }
+#container_portfolio_page, #container_about_page {
+	height: 100vh;
+	padding: 3% .50%;
+	width: 100%;
+	text-align: center;
+	/*vertical-align: bottom;*/ 
+	background-color: #FFFFFF;
+}
 #about_page {
 	background-color: #328DC4;
 	width: 24.5%;
