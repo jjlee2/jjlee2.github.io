@@ -363,6 +363,7 @@ footer {
 }
 #email {
 	width: 100%;
+	margin-left: -10%;
 }
 .portfolioItem {
 	width: 24%;
