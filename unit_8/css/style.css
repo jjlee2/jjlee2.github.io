@@ -153,6 +153,9 @@ li {
 #contact2 a {
 	font: #3F464C;
 }
+#contact2 a: visited {
+	font: #3F464C;
+}
 #gallery {
 	margin: 0 auto;
 }
