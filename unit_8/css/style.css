@@ -349,14 +349,14 @@ footer {
 }
 @media only screen and (max-width: 800px) {
 #logo {
-	width: 10%;
-	height: 10%;
+	width: 30%;
+	height: 30%;
 }
 #contact {
 	padding-left: 1.5em;
 }
 #linkedin {
-	margin-left: 20%;
+	margin-left: 30%;
 }
 }
 }
