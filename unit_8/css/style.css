@@ -143,6 +143,11 @@ li {
 	height: 100%;
 	text-align: justify;
 }
+#contact2 {
+	position: absolute;
+	top: 100%;
+	right: 0%;
+}
 #gallery {
 	margin: 0 auto;
 }
