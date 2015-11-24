@@ -365,7 +365,7 @@ footer {
 .portfolioItem {
 	width: 24%;
 }
-.portfolioItem p, h3, img {
+.portfolioItem p, .portfolioItem h3, .portfolioItem img {
 	margin-bottom: 0;
 }
 }
