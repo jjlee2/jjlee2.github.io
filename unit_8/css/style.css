@@ -364,8 +364,8 @@ footer {
 	margin-left: -45%;
 }
 #linkedin {
-	margin-left: 50%;
-	padding-left: 30%;
+	position: absolute;
+	left: -20%;
 }
 .portfolioItem {
 	width: 24%;
