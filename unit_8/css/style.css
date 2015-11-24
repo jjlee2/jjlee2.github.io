@@ -361,11 +361,12 @@ footer {
 	height: 25%;
 }
 #email {
-	margin-left: -45%;
+	position: absolute;
+	left: -10%;
 }
 #linkedin {
 	position: absolute;
-	left: -20%;
+	left: -10%;
 }
 .portfolioItem {
 	width: 24%;
