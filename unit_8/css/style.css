@@ -368,4 +368,10 @@ footer {
 .portfolioItem p, .portfolioItem h3, .portfolioItem img {
 	margin-bottom: 0;
 }
+footer p {
+	font-size: .75em;
+}
+#copyright {
+	width: auto;
+}
 }
