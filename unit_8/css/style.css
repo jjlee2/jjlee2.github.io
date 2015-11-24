@@ -329,6 +329,7 @@ footer {
 }
 #contact {
 	margin: auto;
+	padding-left: 0.5em;
 	width: 90%;
 }
 #contact p {
