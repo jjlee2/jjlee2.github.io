@@ -152,6 +152,7 @@ li {
 	text-align: right;
 	width: 70%;
 	line-height: 0.618em;
+	float: right;
 }
 #contact2 a {
 	color: #3F464C;
