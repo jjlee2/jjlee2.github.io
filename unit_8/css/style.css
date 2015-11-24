@@ -374,4 +374,7 @@ footer p {
 #copyright {
 	width: auto;
 }
+nav {
+	font-size: .75em;
+}
 }
