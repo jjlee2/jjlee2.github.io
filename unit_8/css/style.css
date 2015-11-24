@@ -349,9 +349,6 @@ footer {
 	width: 19%;
 	height: auto;
 }
-.portfolioItem p, .portfolioItem h3 {
-	font-size: .5em;
-}
 }
 @media only screen and (max-width: 800px) {
 #logo {
