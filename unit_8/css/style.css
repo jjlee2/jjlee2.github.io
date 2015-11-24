@@ -142,13 +142,9 @@ li {
 	width: 75%;
 	height: 100%;
 	text-align: justify;
-	position: relative;
 }
 #contact2 {
 	font-size: .75em;
-	position: absolute;
-	bottom: 1.618em;
-	right: 0;
 	text-align: right;
 	width: 70%;
 	line-height: 0.618em;
