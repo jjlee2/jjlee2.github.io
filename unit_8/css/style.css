@@ -269,9 +269,6 @@ h1, h2 {
 	text-align: justify;
 	width: auto;
 }
-#phone_number {
-	width: 100%;
-}
 #email_address {
 	width: 100%;
 }
@@ -358,7 +355,8 @@ footer {
 #contact {
 	padding-left: 1.5em;
 }
-#email_address {
-	width: 20%;
+#linkedin {
+	margin-left: 20%;
+}
 }
 }
