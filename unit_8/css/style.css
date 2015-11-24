@@ -361,6 +361,9 @@ footer {
 	height: 25%;
 	padding-left: 0;
 }
+#email {
+	width: 100%;
+}
 .portfolioItem {
 	width: 24%;
 }
