@@ -137,11 +137,10 @@ p{
 }
 #contact2 {
 	width: 100%;
-	line-height: 0.618em;
 	margin: auto;
 }
 ul {
-	text-align: center;
+	text-align: left;
 	display: inline-block;
 }
 #contact2 a {
