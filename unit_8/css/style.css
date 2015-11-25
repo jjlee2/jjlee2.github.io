@@ -145,15 +145,14 @@ li {
 }
 #contact2 {
 	font-size: .75em;
-	text-align: right;
-	width: 70%;
+	text-align: center;
+	width: 100%;
 	line-height: 0.618em;
-	float: right;
+	margin: auto;
 }
 #contact2 a {
 	color: #3F464C;
-	margin: 1.618em;
-	text-align: right;
+	text-align: center;
 }
 #contact2 a: visited {
 	color: #3F464C;
