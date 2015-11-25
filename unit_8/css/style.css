@@ -42,14 +42,6 @@ p{
 	line-height: 1.618em;
 	margin: 1.618em;
 }
-li {
-	list-style-type: none;
-	color: #3F464C;
-	text-align: left;
-	margin: 0 auto;
-	line-height: 1.618em;
-	width: 55%;
-}
 #home_page, #about, #portfolio, #photo {
 	width: 24.5%;
 	height: 100%;
