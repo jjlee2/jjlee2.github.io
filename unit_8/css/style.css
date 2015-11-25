@@ -136,7 +136,6 @@ p{
 	text-align: justify;
 }
 #contact2 {
-	font-size: .75em;
 	width: 100%;
 	line-height: 0.618em;
 	margin: auto;
@@ -388,4 +387,7 @@ footer p {
 nav {
 	font-size: .75em;
 }
+}
+@media only screen and (max-width: 360px) {
+	
 }
