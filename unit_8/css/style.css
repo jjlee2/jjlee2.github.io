@@ -149,6 +149,9 @@ li {
 	line-height: 0.618em;
 	margin: auto;
 }
+ul {
+	text-align: center;
+}
 li {
 	display: inline-block;
 	*display: inline;
