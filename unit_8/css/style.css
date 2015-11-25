@@ -144,11 +144,6 @@ p{
 ul {
 	text-align: center;
 }
-li {
-	display: inline-block;
-	*display: inline;
-	*zoom: 1;
-}
 #contact2 a {
 	color: #3F464C;
 }
