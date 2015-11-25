@@ -145,10 +145,12 @@ li {
 }
 #contact2 {
 	font-size: .75em;
-	text-align: center;
 	width: 100%;
 	line-height: 0.618em;
 	margin: auto;
+}
+#contact p{
+	text-align: center;
 }
 #contact2 a {
 	color: #3F464C;
