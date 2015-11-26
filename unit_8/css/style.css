@@ -148,7 +148,6 @@ p{
 #contact2 {
 	display: block;
 	width: 20em;
-	color: #3F464C;
 	float: left;
 }
 #contact2 img {
@@ -160,7 +159,7 @@ p{
 #contact2 p {
 	text-align: left;
 	font-size: .75em;
-	color: #BDD5DF;
+	color: #3F464C;
 	vertical-align: middle;
 	margin: 5% 5.5%;
 	line-height: normal;
