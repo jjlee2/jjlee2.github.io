@@ -403,6 +403,9 @@ h1, h2 {
 	font-size: 2em;
 }
 #contact {
+	display: none;
+}
+/*#contact {
 	display: block;
 	margin: auto;
 	width: 20em;
@@ -426,7 +429,7 @@ h1, h2 {
 	margin: 5% 5.5%;
 	with: 100%;
 	line-height: normal;
-}
+}*/
 	nav a {
 		padding: 1em;
 	}
