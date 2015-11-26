@@ -152,12 +152,13 @@ p{
 #about_text, #gallery {
 	float: left;
 	width: 75%;
-	height: 100%;
+	height: auto;
 	text-align: justify;
 }
 #contact2 {
 	width: 100%;
 	margin: auto;
+	color: #3F464C;
 }
 ul {
 	text-align: left;
