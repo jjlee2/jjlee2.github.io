@@ -333,7 +333,6 @@ footer {
 @media only screen and (max-width: 920px) {
 .container {
 	padding: .50%;
-	height: auto;
 }
 #gallery, #about_text {
 	height: auto;
