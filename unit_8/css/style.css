@@ -398,7 +398,26 @@ nav {
 	font-size: .75em;
 }
 }
-@media only screen and (max-width: 360px) {
+@media only screen and (max-width: 505px) {
+#contact {
+	display: block;
+	margin: auto;
+	width: 15em;
+}
+#contact div {
+	width: 100%;
+}
+#contact img {
+	vertical-align: middle;
+}
+#contact p {
+	text-align: left;
+	font-size: 1em;
+	vertical-align: middle;
+	margin: 5% 5.5%;
+	with: 100%;
+	line-height: normal;
+}
 	nav a {
 		padding: 1em;
 	}
