@@ -376,6 +376,7 @@ footer {
 }
 #contact div {
 	float: none;
+	margin: auto;
 }
 #email {
 	width: 50%;
