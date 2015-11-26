@@ -410,6 +410,10 @@ nav {
 #contact img {
 	vertical-align: middle;
 }
+.contact_icons {
+	float: left;
+	max-width: 100%;
+}
 #contact p {
 	text-align: left;
 	font-size: 1em;
