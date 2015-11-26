@@ -225,17 +225,10 @@ footer {
 }
 #copyright {
 	float: left;
-	width: 20%;
+	width: 30%;
 	color: #FFFFFF;
 	position: relative;
 	margin: auto;
-}
-#clearfix {
-	color: #FFFFFF;
-	padding: 2em;
-	display: inline;
-	width: 60%;
-	position: relative;
 }
 .clearfix: after {
 	visibility: hidden;
@@ -247,6 +240,7 @@ footer {
 }
 nav {
 	display: inline;
+	width: 60%;
 	float: right;
 	margin: auto;
 	position: relative;
