@@ -118,6 +118,7 @@ li {
 	width: 100%;
 	text-align: center;
 	margin: 0.25%;
+	clear: both;
 	/*vertical-align: bottom;*/ 
 	background-color: #FFFFFF;
 }
