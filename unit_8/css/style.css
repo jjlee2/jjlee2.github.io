@@ -45,8 +45,6 @@ p{
 li {
 	color: #3F464C;
 	list-style-type: none;
-	position: absolute;
-	bottom: 0;
 	margin: 0 1.618em;
 }
 #home_page, #about, #portfolio, #photo {
