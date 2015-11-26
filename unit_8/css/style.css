@@ -402,7 +402,7 @@ nav {
 #contact {
 	display: block;
 	margin: auto;
-	width: 15em;
+	width: 20em;
 }
 #contact div {
 	width: 100%;
@@ -410,6 +410,7 @@ nav {
 #contact img {
 	vertical-align: middle;
 	float: left;
+	width: 15%;
 }
 .contact_icons {
 	float: left;
