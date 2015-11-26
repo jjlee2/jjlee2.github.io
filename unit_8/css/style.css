@@ -136,11 +136,6 @@ p{
 	height: auto;
 	text-align: justify;
 }
-#contact2 {
-	width: 100%;
-	color: #3F464C;
-	clear: both;
-}
 .contact_icons2 {
 	color: #3F464C;
 }
@@ -153,6 +148,8 @@ p{
 #contact2 {
 	display: block;
 	width: 20em;
+	color: #3F464C;
+	float: left;
 }
 #contact2 img {
 	vertical-align: middle;
@@ -225,6 +222,7 @@ footer {
 	float: left;
 	padding: 2em;
 	overflow: hidden;
+	clear: both;
 }
 #copyright {
 	float: left;
