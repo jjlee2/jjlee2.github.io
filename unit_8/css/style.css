@@ -42,6 +42,12 @@ p{
 	line-height: 1.618em;
 	margin: 1.618em;
 }
+li {
+	color: #3F464C;
+	list-style-type: none;
+	position: relative;
+	bottom: 0;
+}
 #home_page, #about, #portfolio, #photo {
 	width: 24.5%;
 	height: 100%;
