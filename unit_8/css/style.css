@@ -365,6 +365,10 @@ footer {
 #contact {
 	padding-left: 0;
 }
+#contact p {
+	margin: auto;
+	text-align: center;
+}
 #contact img {
 	width: 20%;
 	height: 20%;
@@ -372,8 +376,6 @@ footer {
 }
 #contact div {
 	float: none;
-	margin: auto;
-	text-align: center;
 }
 #email {
 	width: 50%;
