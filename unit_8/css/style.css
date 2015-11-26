@@ -409,6 +409,7 @@ nav {
 }
 #contact img {
 	vertical-align: middle;
+	float: left;
 }
 .contact_icons {
 	float: left;
