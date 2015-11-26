@@ -99,25 +99,6 @@ p{
 	line-height: normal;
 	width: 100%;
 }
-#contact2 {
-	display: block;
-	width: 20em;
-}
-#contact2 img {
-	vertical-align: middle;
-}
-#contact2 div {
-	width: 100%;
-}
-#contact2 p {
-	text-align: left;
-	font-size: .75em;
-	color: #BDD5DF;
-	vertical-align: middle;
-	margin: 5% 5.5%;
-	line-height: normal;
-	width: 100%;
-}
 #photo {
 	background-image:url(../images/broad.png);
 	background-size:cover;
@@ -157,18 +138,35 @@ p{
 }
 #contact2 {
 	width: 100%;
-	margin: auto;
 	color: #3F464C;
 }
-ul {
-	text-align: left;
-	display: inline-block;
+.contact_icons2 {
+	color: #3F464C;
 }
 #contact2 a {
 	color: #3F464C;
 }
 #contact2 a: visited {
 	color: #3F464C;
+}
+#contact2 {
+	display: block;
+	width: 20em;
+}
+#contact2 img {
+	vertical-align: middle;
+}
+#contact2 div {
+	width: 100%;
+}
+#contact2 p {
+	text-align: left;
+	font-size: .75em;
+	color: #BDD5DF;
+	vertical-align: middle;
+	margin: 5% 5.5%;
+	line-height: normal;
+	width: 100%;
 }
 #gallery {
 	margin: 0 auto;
