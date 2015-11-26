@@ -95,7 +95,7 @@ p{
 	font-size: .75em;
 	color: #BDD5DF;
 	vertical-align: middle;
-	margin: 5% 5.5%;
+	margin: 7%;
 	line-height: normal;
 	width: 100%;
 }
@@ -239,7 +239,7 @@ nav a {
 	margin: auto
 }
 /*media queries*/
-@media only screen and (max-width: 1290px) {
+@media only screen and (max-width: 1310px) {
 body {
 	font-size: 14px;
 }
