@@ -42,15 +42,6 @@ p{
 	line-height: 1.618em;
 	margin: 1.618em;
 }
-#contact2 {
-	position: relative;
-	bottom: 0;
-}
-li {
-	color: #3F464C;
-	list-style-type: none;
-	margin: 0 1.618em;
-}
 #home_page, #about, #portfolio, #photo {
 	width: 24.5%;
 	height: 100%;
@@ -100,6 +91,25 @@ li {
 	width: 100%;
 }
 #contact p {
+	text-align: left;
+	font-size: .75em;
+	color: #BDD5DF;
+	vertical-align: middle;
+	margin: 5% 5.5%;
+	line-height: normal;
+	width: 100%;
+}
+#contact2 {
+	display: block;
+	width: auto;
+}
+#contact2 img {
+	vertical-align: middle;
+}
+#contact2 div {
+	width: 100%;
+}
+#contact2 p {
 	text-align: left;
 	font-size: .75em;
 	color: #BDD5DF;
