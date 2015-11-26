@@ -372,6 +372,7 @@ footer {
 	float: none;
 	margin: auto;
 	text-align: center;
+	padding-left: 0;
 }
 #email {
 	width: 50%;
