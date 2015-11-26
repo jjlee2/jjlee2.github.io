@@ -342,6 +342,9 @@ footer {
 .container {
 	padding: .50%;
 }
+#container_portfolio_page, #container_about_page {
+	height: auto;
+}
 #gallery, #about_text {
 	height: auto;
 }
