@@ -230,14 +230,6 @@ footer {
 	position: relative;
 	margin: auto;
 }
-.clearfix: after {
-	visibility: hidden;
-	display: inline;
-	content: " ";
-	clear: both;
-	height: 0;
-	font-size: 0;
-}
 nav {
 	display: inline;
 	width: 60%;
