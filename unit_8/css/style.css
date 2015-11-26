@@ -367,7 +367,7 @@ footer {
 	height: 25%;
 	padding-left: 0;
 }
-#phone, #email, #linkedin{
+#contact div {
 	float: none;
 	margin: auto;
 	text-align: center;
