@@ -413,7 +413,7 @@ nav {
 h1, h2 {
 	font-size: 2em;
 }
-#contact {
+#contact p {
 	display: none;
 }
 /*#contact {
@@ -441,7 +441,7 @@ h1, h2 {
 	with: 100%;
 	line-height: normal;
 }*/
-	nav a {
-		padding: 1em;
+nav a {
+		padding: .75em;
 	}
 }
