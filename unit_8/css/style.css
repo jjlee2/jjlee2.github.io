@@ -293,6 +293,8 @@ h1, h2 {
 	margin: 6% 5%;
 	text-align: justify;
 	width: 100%;
+	position: relative;
+	top: 20px;
 }
 #email_address {
 	width: 100%;
