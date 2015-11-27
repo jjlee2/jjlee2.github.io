@@ -42,7 +42,7 @@ a:visited {
 p{
 	color: #3F464C;
 	text-align: left;
-	line-height: 2em;
+	line-height: 1.618em;
 	margin: 1.618em;
 }
 #home_page, #about, #portfolio, #photo {
@@ -132,6 +132,9 @@ p{
 	width: 30%;
 	padding: 1.5em;
 	margin: 0 auto;
+}
+#about_text p {
+	line-height: 2em;
 }
 #about_text, #gallery {
 	float: left;
