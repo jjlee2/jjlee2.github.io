@@ -149,11 +149,9 @@ p{
 #contact2 {
 	width: 40%;
 	float: left;
-	padding: 10% 0;
 }
 #contact2 img {
 	vertical-align: middle;
-	padding: 5% 0;
 }
 #phone2, #email2, #linkedin2 {
 	width: 100%;
@@ -167,7 +165,6 @@ p{
 	color: #3F464C;
 	margin: auto;
 	width: auto;
-	padding: 5% 0;
 }
 #gallery {
 	margin: 0 auto;
