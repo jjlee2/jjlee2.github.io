@@ -91,6 +91,7 @@ p{
 	width: 100%;
 }
 #contact p {
+	font-size: .75em;
 	margin: 1.618em;
 	text-align: left;
 	width: auto;
