@@ -115,6 +115,9 @@ p{
 	/*vertical-align: bottom;*/ 
 	background-color: #FFFFFF;
 }
+#container_about_page {
+	position: absolute;
+}
 #about_page {
 	background-color: #328DC4;
 	width: 24.5%;
@@ -150,6 +153,8 @@ p{
 	width: 70%;
 	float: left;
 	padding: 1.5em;
+	position: relative;
+	bottom: 0;
 }
 #contact2 img {
 	vertical-align: middle;
