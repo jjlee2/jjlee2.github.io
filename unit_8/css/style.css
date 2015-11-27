@@ -242,7 +242,7 @@ nav {
 }
 nav a {
 	padding: 2em;
-	margin: auto
+	margin: auto;
 	float: right;
 }
 /*media queries*/
