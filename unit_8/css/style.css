@@ -372,6 +372,10 @@ footer {
 }
 }
 @media only screen and (max-width: 800px) {
+
+p {
+	margin: 1em;
+}
 #logo {
 	width: 30%;
 	height: 30%;
@@ -405,6 +409,9 @@ footer {
 #contact2_icons {
 	width: 20%;
 	height: 20%
+}
+#phone2, #email2, #linkedin2 {
+	margin: 0 1em;
 }
 footer p {
 	font-size: .75em;
