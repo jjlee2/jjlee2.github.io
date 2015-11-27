@@ -427,6 +427,9 @@ nav {
 h1, h2 {
 	font-size: 2em;
 }
+p {
+	margin: 0 .5em;
+}
 #contact p {
 	display: none;
 }
@@ -455,6 +458,9 @@ h1, h2 {
 	with: 100%;
 	line-height: normal;
 }*/
+#phone2, #email2, #linkedin2 {
+	margin: 0 .5em;
+}
 nav a {
 		padding: .75em;
 	}
