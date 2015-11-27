@@ -384,6 +384,7 @@ p {
 	padding-left: 0;
 }
 #contact p {
+	font-size: .80em;
 	margin: auto;
 	text-align: center;
 }
