@@ -157,10 +157,10 @@ p{
 	width: 100%;
 	margin: auto;
 	display: block;
+	float: left;
 }
 #contact2 p {
 	text-align: left;
-	float: left;
 	font-size: .75em;
 	color: #3F464C;
 	margin: 5% 5.5%;
