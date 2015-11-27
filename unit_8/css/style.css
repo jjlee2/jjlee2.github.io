@@ -384,6 +384,8 @@ footer {
 }
 #contact img {
 	float: none;
+	width: 20%;
+	height: 20%;
 }
 #contact div {
 	float: none;
