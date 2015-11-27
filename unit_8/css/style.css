@@ -147,7 +147,7 @@ p{
 	color: #3F464C;
 }
 #contact2 {
-	width: 100%;
+	width: 70%;
 	float: left;
 	padding: 1.5em;
 }
@@ -158,7 +158,7 @@ p{
 	width: 100%;
 	display: block;
 	float: left;
-	margin: 1.618em;
+	margin: 0 1.618em;
 }
 #contact2 p {
 	text-align: left;
