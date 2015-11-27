@@ -94,10 +94,10 @@ p{
 	font-size: .75em;
 	margin: 1.618em;
 	text-align: left;
-	width: auto;
+	width: 100%;
 	position: relative;
 	top: 20px;
-	color: #FFF;
+	color: #BDD5DF;
 }
 #photo {
 	background-image:url(../images/broad.png);
