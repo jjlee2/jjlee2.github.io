@@ -150,6 +150,8 @@ p{
 	width: 70%;
 	float: left;
 	padding: 1.5em;
+}
+#contact2 p {
 	position: relative;
 	top: 20px;
 }
