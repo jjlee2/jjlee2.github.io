@@ -274,6 +274,9 @@ h1 a, h2 a {
 h1, h2 {
 	padding: .55em;
 }
+p {
+	margin: 1.618em 0;
+}
 #contact {
 	overflow: hidden;
 	width: 80%;
