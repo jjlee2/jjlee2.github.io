@@ -154,12 +154,6 @@ p{
 #contact2 img {
 	vertical-align: middle;
 }
-#phone2, #email2, #linkedin2 {
-	width: 100%;
-	display: block;
-	float: left;
-	margin: 0 1.618em;
-}
 #contact2 p {
 	text-align: left;
 	color: #3F464C;
@@ -167,6 +161,12 @@ p{
 	width: auto;
 	position: relative;
 	top: 20px;
+}
+#phone2, #email2, #linkedin2 {
+	width: 100%;
+	display: block;
+	float: left;
+	margin: 0 1.618em;
 }
 #gallery {
 	margin: 0 auto;
@@ -259,8 +259,11 @@ h1 a, h2 a {
 	width: 100%;
 	padding: 0;
 }
+#contact2 img {
+	width: 20%;
+	height: 20%;
 }
-
+}
 @media only screen and (max-width: 1150px) {
 .container {
 	padding: .50%;
@@ -310,14 +313,14 @@ h1, h2 {
 #portfolioItem {
 	float: none;
 }
-.clearfix: after {
+/*.clearfix: after {
 	visibility: hidden;
 	display: inline;
 	content: " ";
 	clear: both;
 	height: 0;
 	font-size: 0;
-}
+}*/
 #logo {
 	width: 50%;
 	height: 50%;
@@ -397,13 +400,6 @@ footer {
 }
 .portfolioItem p, .portfolioItem h3, .portfolioItem img {
 	margin-bottom: 0;
-}
-#contact2 img {
-	width: 20%;
-	height: 20%;
-}
-#contact2 p {
-	font-size: .75em;
 }
 footer p {
 	font-size: .75em;
