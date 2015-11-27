@@ -334,6 +334,9 @@ h1, h2 {
 #contact2 {
 	width: 100%;
 }
+#contact2_icons {
+	width: 20%;
+}
 footer {
 	padding: 1em;
 }
