@@ -150,9 +150,9 @@ p{
 	width: 40%;
 	float: left;
 }
-/*#contact2 img {
+#contact2 img {
 	vertical-align: middle;
-}*/
+}
 #phone2, #email2, #linkedin2 {
 	width: 100%;
 	margin: auto;
@@ -164,7 +164,7 @@ p{
 	font-size: .75em;
 	color: #3F464C;
 	margin: 5% 5.5%;
-	line-height: normal;
+	line-height: 1.5em;
 	width: auto;
 }
 #gallery {
