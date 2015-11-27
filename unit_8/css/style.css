@@ -401,6 +401,10 @@ footer {
 .portfolioItem p, .portfolioItem h3, .portfolioItem img {
 	margin-bottom: 0;
 }
+#contact2 img {
+	width: 20%;
+	height: 20%
+}
 footer p {
 	font-size: .75em;
 }
