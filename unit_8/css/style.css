@@ -309,7 +309,6 @@ h1, h2 {
 	display: block;
 }
 .portfolioItem {
-	float: none;
 	padding: 2%;
 }
 /*.clearfix: after {
