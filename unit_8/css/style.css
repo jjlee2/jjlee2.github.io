@@ -259,7 +259,7 @@ h1 a, h2 a {
 	width: 100%;
 	padding: 0;
 }
-#contact2 img {
+#contact2_icons {
 	width: 20%;
 	height: 20%;
 }
@@ -401,7 +401,7 @@ footer {
 .portfolioItem p, .portfolioItem h3, .portfolioItem img {
 	margin-bottom: 0;
 }
-#contact2 img {
+#contact2_icons {
 	width: 20%;
 	height: 20%
 }
