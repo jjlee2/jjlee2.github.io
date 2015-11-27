@@ -160,6 +160,7 @@ p{
 #phone2, #email2, #linkedin2 {
 	width: 100%;
 	margin: auto;
+	display: block;
 }
 #contact2 p {
 	text-align: left;
@@ -168,7 +169,7 @@ p{
 	color: #3F464C;
 	margin: 5% 5.5%;
 	line-height: normal;
-	width: 100%;
+	width: auto;
 }
 #gallery {
 	margin: 0 auto;
