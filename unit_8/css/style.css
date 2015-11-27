@@ -165,8 +165,8 @@ p{
 	color: #3F464C;
 	margin: 1.618em;
 	width: auto;
-	/*position: relative;
-	top: 20px;*/
+	position: relative;
+	top: 20px;
 }
 #gallery {
 	margin: 0 auto;
