@@ -336,6 +336,9 @@ h1, h2 {
 .portfolioItem {
 	margin: 1.618;
 }
+#contact2 {
+	width: 100%;
+}
 footer {
 	padding: 1em;
 }
