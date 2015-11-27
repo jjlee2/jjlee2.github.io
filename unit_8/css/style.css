@@ -292,8 +292,8 @@ h1, h2 {
 	margin: 1.618em;
 	text-align: left;
 	width: auto;
-	position: relative;
-	top: 20px;
+	/*position: relative;
+	top: 20px;*/
 }
 #email_address {
 	width: 100%;
@@ -464,6 +464,10 @@ p {
 }*/
 #phone2, #email2, #linkedin2 {
 	margin: 0 .5em;
+}
+#contact2 p {
+	position: relative;
+	top: 20px;
 }
 nav a {
 		padding: .75em;
