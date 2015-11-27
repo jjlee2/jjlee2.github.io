@@ -150,6 +150,8 @@ p{
 	width: 70%;
 	float: left;
 	padding: 1.5em;
+	position: relative;
+	top: 20px;
 }
 #phone2, #email2, #linkedin2 {
 	width: 100%;
