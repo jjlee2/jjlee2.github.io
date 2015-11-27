@@ -148,12 +148,12 @@ p{
 }
 #contact2 {
 	display: block;
-	width: 20em;
+	width: 40%;
 	float: left;
 }
-#contact2 img {
+/*#contact2 img {
 	vertical-align: middle;
-}
+}*/
 #contact2 div {
 	width: 100%;
 }
