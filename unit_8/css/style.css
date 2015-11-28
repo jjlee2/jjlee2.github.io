@@ -155,7 +155,7 @@ p{
 #contact2 {
 	width: 70%;
 	float: left;
-	padding: 3em;
+	padding: 3em 3em 3em 0;
 }
 /*#contact2 p {
 	position: relative;
