@@ -130,7 +130,7 @@ p{
 }
 #about_text {
 	width: 30%;
-	padding: 2em;
+	padding: 3em;
 	margin: 0 auto;
 }
 #about_text p {
@@ -155,7 +155,7 @@ p{
 #contact2 {
 	width: 70%;
 	float: left;
-	padding: 1.5em 1.5em 1.5em 0;
+	padding: 3em 3em 3em 0;
 }
 /*#contact2 p {
 	position: relative;
@@ -330,9 +330,6 @@ h1, h2 {
 	margin-top: 1.618em;
 	width: 100%;
 	height: 71.125%;
-}
-#about_text {
-	padding: 3em;
 }
 #photo {
 	background-image: url(../images/broad2.png);
