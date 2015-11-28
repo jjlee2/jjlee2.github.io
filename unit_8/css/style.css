@@ -130,7 +130,7 @@ p{
 }
 #about_text {
 	width: 30%;
-	padding: 3em;
+	padding: 3em 3em 0 3em;
 	margin: 0 auto;
 }
 #about_text p {
