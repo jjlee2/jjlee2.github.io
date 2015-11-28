@@ -329,7 +329,7 @@ h1, h2 {
 #gallery, #about_text {
 	margin-top: 1.618em;
 	width: 100%;
-	height: 71.125%;
+	height: auto;
 	padding: 0 3em;
 }
 #photo {
