@@ -127,7 +127,6 @@ p{
 	box-shadow:2px 2px 4px rgba(0,0,0,.25);
 	border-radius:.25em;
 	color: #FFFFFF;
-	clear: both;
 }
 #about_text {
 	width: 30%;
@@ -170,6 +169,7 @@ p{
 }
 #gallery {
 	margin: 0 auto;
+	clear: both;
 }
 #portfolio_page {
 	background-color: #7ECEFC;
