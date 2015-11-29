@@ -410,8 +410,8 @@ p {
 	width: 50%;
 	margin-left: -20%;
 }
-.portfolioItem {
-	width: 24%;
+/*.portfolioItem {
+	width: 24%;*/
 }
 .portfolioItem p, .portfolioItem h3, .portfolioItem img {
 	margin-bottom: 0;
