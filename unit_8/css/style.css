@@ -191,7 +191,7 @@ p{
 	padding: 0;
 }
 .portfolioItem h3, .portfolioItem p, .portfolioItem img {
-	width: 100%;
+	/*width: 100%;*/
 	margin-bottom:.5em;
 }
 .portfolioItem h3 {
@@ -358,9 +358,6 @@ footer {
 #container_portfolio_page, #container_about_page {
 	height: 100vh;
 }
-/*#gallery, #about_text {
-	height: auto;
-}*/
 #contact {
 	margin: auto;
 	padding-left: 2em;
@@ -377,7 +374,6 @@ footer {
 }
 .portfolioItem {
 	float: left;
-	/*width: 19%;*/
 	height: auto;
 	padding: 0 3em;
 }
