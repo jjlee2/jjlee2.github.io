@@ -139,7 +139,7 @@ p{
 #about_text, #gallery {
 	float: left;
 	width: 75%;
-	height: 100%;
+	height: auto%;
 	text-align: justify;
 }
 .contact_icons2 {
@@ -169,6 +169,7 @@ p{
 }
 #gallery {
 	margin: 0 auto;
+	padding: 1em;
 }
 #portfolio_page {
 	background-color: #7ECEFC;
@@ -185,7 +186,7 @@ p{
 	text-align: left;
 	float: left;
 	width: 19%;
-	margin: 2em 3em;
+	margin: 2.5em;
 	padding: 0;
 }
 .portfolioItem h3, .portfolioItem p, .portfolioItem img {
