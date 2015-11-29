@@ -186,7 +186,7 @@ p{
 	text-align: left;
 	float: left;
 	width: 19%;
-	margin: 2.5em;
+	margin: 0 2em 2em;
 	padding: 0;
 }
 .portfolioItem h3, .portfolioItem p, .portfolioItem img {
