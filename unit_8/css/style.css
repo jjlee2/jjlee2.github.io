@@ -129,9 +129,9 @@ p{
 	color: #FFFFFF;
 }
 #about_text {
-	width: 30%;
 	padding: 0 3em 0 3em;
 	margin: 0 auto;
+	height: 70%;
 }
 #about_text p {
 	line-height: 2em;
@@ -139,7 +139,6 @@ p{
 #about_text, #gallery {
 	float: left;
 	width: 75%;
-	height: auto;
 	text-align: justify;
 }
 .contact_icons2 {
@@ -154,6 +153,7 @@ p{
 }
 #contact2 {
 	width: 70%;
+	height: 30%;
 	float: left;
 	padding: 0 3em 0 3em;
 }
@@ -170,6 +170,7 @@ p{
 #gallery {
 	margin: 0 auto;
 	padding: 1em;
+	height: 100%;
 }
 #portfolio_page {
 	background-color: #7ECEFC;
