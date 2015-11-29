@@ -139,7 +139,7 @@ p{
 #about_text, #gallery {
 	float: left;
 	width: 75%;
-	height: auto%;
+	height: auto;
 	text-align: justify;
 }
 .contact_icons2 {
