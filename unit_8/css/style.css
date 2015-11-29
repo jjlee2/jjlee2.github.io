@@ -356,11 +356,11 @@ footer {
 	padding: .50%;
 }
 #container_portfolio_page, #container_about_page {
-	height: auto;
+	height: 100vh;
 }
-#gallery, #about_text {
+/*#gallery, #about_text {
 	height: auto;
-}
+}*/
 #contact {
 	margin: auto;
 	padding-left: 2em;
