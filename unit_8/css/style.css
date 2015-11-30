@@ -156,9 +156,9 @@ p{
 	float: left;
 	padding: 0 3em 0 3em;
 }
-/*#contact2 p {
+#contact2 p {
 	position: relative;
-	top: 20px;*/
+	top: 20px;
 }
 #phone2, #email2, #linkedin2 {
 	width: 100%;
