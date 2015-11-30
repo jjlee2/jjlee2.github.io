@@ -114,7 +114,7 @@ p{
 	width: 100%;
 	text-align: center;
 	margin: 0.25%;
-	clear: both;
+	/*clear: both;*/
 	background-color: #FFFFFF;
 }
 #about_page {
@@ -316,14 +316,6 @@ h1, h2 {
 .portfolioItem {
 	padding: 2%;
 }
-/*.clearfix: after {
-	visibility: hidden;
-	display: inline;
-	content: " ";
-	clear: both;
-	height: 0;
-	font-size: 0;
-}*/
 #logo {
 	width: 50%;
 	height: 50%;
@@ -406,8 +398,8 @@ p {
 	width: 50%;
 	margin-left: -20%;
 }
-/*.portfolioItem {
-	width: 24%;*/
+.portfolioItem {
+	width: 24%;
 }
 .portfolioItem p, .portfolioItem h3, .portfolioItem img {
 	margin-bottom: 0;
