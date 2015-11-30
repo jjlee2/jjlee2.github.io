@@ -307,7 +307,7 @@ h1, h2 {
 	vertical-align: middle;
 }
 #portfolio_page, #about_page {
-	float: none;
+	/*float: none;*/
 	height: auto;
 	width: 98.5%;
 	margin: .50% .25%;
