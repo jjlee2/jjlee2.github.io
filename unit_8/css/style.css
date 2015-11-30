@@ -98,8 +98,8 @@ p{
 	margin: 1.618em;
 	text-align: left;
 	width: 100%;
-	position: relative;
-	top: 20px;
+	/*position: relative;
+	top: 20px;*/
 	color: #BDD5DF;
 }
 #photo {
