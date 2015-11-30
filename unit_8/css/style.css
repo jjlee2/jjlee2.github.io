@@ -307,7 +307,7 @@ h1, h2 {
 	vertical-align: middle;
 }
 #portfolio_page, #about_page {
-	/*float: none;*/
+	float: none;
 	height: auto;
 	width: 98.5%;
 	margin: .50% .25%;
@@ -430,31 +430,6 @@ p {
 #contact p {
 	display: none;
 }
-/*#contact {
-	display: block;
-	margin: auto;
-	width: 20em;
-}
-#contact div {
-	width: 100%;
-}
-#contact img {
-	vertical-align: middle;
-	float: left;
-	width: 13%;
-}
-.contact_icons {
-	float: left;
-	max-width: 100%;
-}
-#contact p {
-	text-align: left;
-	font-size: .8em;
-	vertical-align: middle;
-	margin: 5% 5.5%;
-	with: 100%;
-	line-height: normal;
-}*/
 #phone2, #email2, #linkedin2 {
 	margin: 0 .5em;
 }
