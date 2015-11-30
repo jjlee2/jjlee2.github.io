@@ -188,6 +188,7 @@ p{
 	width: 19%;
 	margin: 0 1.5em 1.5em;
 	padding: 0;
+	display: block;
 }
 .portfolioItem h3, .portfolioItem p, .portfolioItem img {
 	width: 100%;
@@ -308,7 +309,7 @@ h1, h2 {
 }
 #portfolio_page, #about_page {
 	float: none;
-	height: auto;
+	height: 10%;
 	width: 98.5%;
 	margin: .50% .25%;
 	display: block;
