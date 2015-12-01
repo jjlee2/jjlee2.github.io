@@ -276,6 +276,7 @@ h1, h2 {
 	width: 90%;
 	margin: 0 15%;
 	left: 0;
+	right: 5px;
 }
 #contact div {
 	float: left;
