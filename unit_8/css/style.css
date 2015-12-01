@@ -277,12 +277,11 @@ h1, h2 {
 	width: 100%;
 	margin: 0 15%;
 	left: 0;
-	right: 5px;
 }
 #contact div {
 	float: left;
 	display: inline-block;
-	/*width: 30%;*/
+	width: 30%;
 	padding: .20em;
 }
 #contact p {
