@@ -269,7 +269,7 @@ h1, h2 {
 	float: none;
 	height: 23%;
 	display: block;
-	width: 98.5%;
+	width: 99.5%;
 	margin: .875% .25%;
 }
 #contact {
@@ -316,9 +316,9 @@ h1, h2 {
 	height: auto;
 	padding: 0 3em;
 }
-#photo {
+/*#photo {
 	background-image: url(../images/broad2.png);
-}
+}*/
 .portfolioItem {
 	margin: 1.618;
 }
@@ -371,9 +371,7 @@ p {
 	padding-left: 0;
 }
 #contact p {
-	font-size: .80em;
-	margin: auto;
-	text-align: center;
+	display: none;
 }
 #contact img {
 	float: none;
@@ -415,9 +413,6 @@ h1, h2 {
 }
 p {
 	margin: 0 .5em;
-}
-#contact p {
-	display: none;
 }
 #phone2, #email2, #linkedin2 {
 	margin: 0 .5em;
