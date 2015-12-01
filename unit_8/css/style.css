@@ -273,8 +273,8 @@ h1, h2 {
 }
 #contact {
 	overflow: hidden;
-	width: 80%;
-	margin: 1% 15%;
+	width: 90%;
+	margin: 0 15%;
 }
 #contact div {
 	float: left;
