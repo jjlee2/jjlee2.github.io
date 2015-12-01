@@ -12,18 +12,15 @@ body {
 }
 .container {
 	height: 100vh;
-	padding: 3% .50%;
+	padding: 2% .50%;
 	width: 100%;
 	text-align: center;
-	/*vertical-align: bottom;*/ 
 	background-color: #FFFFFF;
 }
 h1,h2 {
 	font-family: 'Dosis', sans-serif;
-	font-size:2.5em;
+	font-size: 2.5em;
 	line-height: 2em;
-	font-weight: 600;
-	letter-spacing: 0.15em;
 	margin: auto;
 	font-weight: 200;
 	padding: 1.5em;
@@ -98,8 +95,8 @@ p{
 	margin: 1.618em;
 	text-align: left;
 	width: 100%;
-	/*position: relative;
-	top: 20px;*/
+	position: relative;
+	left: 10px;
 	color: #BDD5DF;
 }
 #photo {
