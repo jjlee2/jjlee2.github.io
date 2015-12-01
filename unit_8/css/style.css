@@ -261,6 +261,9 @@ h1 a, h2 a {
 .container {
 	padding: .50%;
 }
+h1, h2 {
+	padding: 0;
+}
 #home_page, #portfolio, #about, #photo {
 	float: none;
 	height: 23%;
