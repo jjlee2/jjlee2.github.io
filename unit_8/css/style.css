@@ -274,7 +274,7 @@ h1, h2 {
 }
 #contact {
 	overflow: hidden;
-	width: 80%;
+	width: 100%;
 	margin: 0 15%;
 	left: 0;
 	right: 5px;
@@ -316,9 +316,9 @@ h1, h2 {
 	height: auto;
 	padding: 0 3em;
 }
-/*#photo {
+#photo {
 	background-image: url(../images/broad2.png);
-}*/
+}
 .portfolioItem {
 	margin: 1.618;
 }
