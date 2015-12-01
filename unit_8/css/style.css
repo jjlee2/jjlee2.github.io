@@ -92,12 +92,11 @@ p{
 }
 #contact p {
 	font-size: .75em;
-	margin: 1.618em;
+	margin: 1.5em;
 	text-align: left;
 	width: 100%;
 	position: relative;
 	left: 5px;
-	color: #BDD5DF;
 }
 #photo {
 	background-image:url(../images/broad.png);
