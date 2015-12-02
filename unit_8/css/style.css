@@ -338,7 +338,7 @@ footer {
 	padding: .50%;
 }
 #container_portfolio_page, #container_about_page {
-	height: 100vh;
+	height: auto;
 }
 #contact {
 	margin: auto;
