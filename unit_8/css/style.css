@@ -238,9 +238,13 @@ h1 a, h2 a {
 	width: 100%;
 	padding: 0;
 }
+#logo {
+	margin: 1% 0;
+}
 #contact {
 	width: 18em;
 	left: 5px;
+	margin: 1% 7%;
 }
 #contact2_icons {
 	width: 20%;
