@@ -309,7 +309,7 @@ h1, h2 {
 	height: 50%;
 }
 #gallery, #about_text {
-	margin-top: 1.618em;
+	margin: 3em;
 	width: 90%;
 	height: auto;
 	padding: 0 3em;
