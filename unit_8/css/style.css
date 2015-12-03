@@ -340,10 +340,10 @@ footer {
 #container_portfolio_page, #container_about_page {
 	height: auto;
 }
-#contact {
+#contact p {
 	display: none;
 }
-#contact1.2 {
+#contact {
 	display: inline-block;
 	float: left;
 	margin: 0.3em;
