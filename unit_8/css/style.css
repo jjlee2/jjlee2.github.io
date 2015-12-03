@@ -225,6 +225,11 @@ nav a {
 	margin: auto;
 }
 /*media queries*/
+@media only screen and (max-width: 1375px) {
+h1, h2 {
+	font-size: 2.5em;
+	}
+}
 @media only screen and (max-width: 1310px) {
 body {
 	font-size: 15px;
