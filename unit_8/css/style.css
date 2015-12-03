@@ -262,13 +262,13 @@ h1, h2 {
 }
 .container, #container_about_page, #container_portfolio_page {
 	clear: both;
+	height: auto;
 }
 #home_page, #portfolio, #about, #photo {
 	float: none;
 	height: 23%;
 	display: block;
 	width: 99.5%;
-	margin: 2em;
 	padding: .50%;
 }
 #contact {
@@ -300,7 +300,6 @@ h1, h2 {
 	float: none;
 	height: 10%;
 	width: 98.5%;
-	margin: 2em;
 	display: block;
 	clear: both;
 }
