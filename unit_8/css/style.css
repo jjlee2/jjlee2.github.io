@@ -180,7 +180,6 @@ p{
 }
 .portfolioItem h3, .portfolioItem p, .portfolioItem img {
 	width: 100%;
-	margin-bottom:.5em;
 }
 .portfolioItem h3 {
 	text-transform: lowercase;
