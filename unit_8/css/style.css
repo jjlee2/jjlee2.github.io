@@ -257,6 +257,9 @@ h1 a, h2 a {
 }
 }
 @media only screen and (max-width: 1150px) {
+.container, #container_portfolio_page, #container_about_page {
+	margin: 0 1%;
+}
 h1, h2 {
 	padding: 0;
 }
