@@ -420,6 +420,7 @@ nav a {
 @media only screen and (max-width: 400px) {
 #about_text, #gallery, #contact2 {
 	padding: 0;
+	margin: 1.5em;
 }
 
 
