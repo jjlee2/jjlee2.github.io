@@ -266,6 +266,7 @@ h1, h2 {
 	display: block;
 	width: 99%;
 	margin: .875% .25%;
+	padding: .50% ;
 }
 #contact {
 	overflow: hidden;
