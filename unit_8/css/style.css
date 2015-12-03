@@ -12,15 +12,15 @@ body {
 }
 .container {
 	height: 100vh;
-	padding: 2% .50%;
+	padding: 1% .50%;
 	width: 100%;
 	text-align: center;
 	background-color: #FFFFFF;
 }
 h1,h2 {
 	font-family: 'Dosis', sans-serif;
-	font-size: 2.5em;
-	line-height: 2em;
+	font-size: 3em;
+	line-height: 1.5em;
 	margin: auto;
 	font-weight: 200;
 	padding: 1.5em;
@@ -108,7 +108,7 @@ p{
 }
 #container_portfolio_page, #container_about_page {
 	height: 100vh;
-	padding: 3% .50%;
+	padding: 1% .50%;
 	width: 100%;
 	text-align: center;
 	margin: 0.25%;
@@ -153,10 +153,6 @@ p{
 	height: 40%;
 	float: left;
 	padding: 0 3em 0 3em;
-}
-#contact2 p {
-	position: relative;
-	top: 20px;
 }
 #phone2, #email2, #linkedin2 {
 	width: 100%;
