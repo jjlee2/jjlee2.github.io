@@ -163,7 +163,6 @@ p{
 }
 #gallery {
 	margin: 0 auto;
-	padding: 1em;
 	height: 100%;
 }
 #portfolio_page {
@@ -173,8 +172,8 @@ p{
 	color: #3F464C;
 	text-align: left;
 	float: left;
-	width: 28%;
-	margin: 0 1.5em 1.5em;
+	width: 32%;
+	margin: .75%;
 	padding: 0;
 	display: block;
 }
