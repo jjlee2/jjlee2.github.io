@@ -299,6 +299,7 @@ h1, h2 {
 	width: 98.5%;
 	margin: 2em;
 	display: block;
+	clear: both;
 }
 #logo {
 	width: 50%;
