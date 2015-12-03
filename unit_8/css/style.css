@@ -314,7 +314,7 @@ h1, h2 {
 	margin-top: 1.618em;
 	width: 100%;
 	height: auto;
-	padding: 0 3em;
+	padding: 0 1em;
 }
 #photo {
 	background-image: url(../images/broad2.png);
@@ -416,11 +416,14 @@ p {
 #phone2, #email2, #linkedin2 {
 	margin: 0 .5em;
 }
-#contact2 p {
+/*#contact2 p {
 	position: relative;
 	top: 20px;
-}
+}*/
 nav a {
 		padding: .75em;
 	}
+}
+@media only screen and (max-width: 400px) {
+
 }
