@@ -342,7 +342,7 @@ footer {
 	width: 100%;
 }
 #contact p {
-	margin-left: 4em;
+	display: none;
 }
 #contact div {
 	display: inline-block;
@@ -365,9 +365,6 @@ p {
 }
 #contact {
 	padding-left: 0;
-}
-#contact p {
-	display: none;
 }
 #contact img {
 	float: none;
