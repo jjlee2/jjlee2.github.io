@@ -340,6 +340,7 @@ footer {
 #contact {
 	margin: auto;
 	width: 100%;
+	left: 7em;
 }
 #contact p {
 	display: none;
