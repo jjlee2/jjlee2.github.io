@@ -12,7 +12,7 @@ body {
 }
 .container {
 	height: 100vh;
-	padding: .25%;
+	padding: .50% .25%;
 	width: 100%;
 	text-align: center;
 	background-color: #FFFFFF;
@@ -108,7 +108,7 @@ p{
 }
 #container_portfolio_page, #container_about_page {
 	height: 100vh;
-	padding: .25%;
+	padding: .50% .25%;
 	width: 100%;
 	text-align: center;
 	clear: both;
