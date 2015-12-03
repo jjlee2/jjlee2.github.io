@@ -272,7 +272,7 @@ h1, h2 {
 	float: none;
 	height: 23%;
 	display: block;
-	width: 99.5%;
+	width: 99%;
 	margin: .875% .25%;
 }
 #contact {
@@ -292,8 +292,6 @@ h1, h2 {
 	margin: 1.618em;
 	text-align: left;
 	width: auto;
-	/*position: relative;
-	top: 20px;*/
 }
 #email_address {
 	width: 100%;
