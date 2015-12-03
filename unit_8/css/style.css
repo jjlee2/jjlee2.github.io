@@ -101,6 +101,9 @@ p{
 	left: 4px;
 	top: 4px;
 }
+#contact1.2 {
+	display: none;
+}
 #photo {
 	background-image:url(../images/gug.png);
 	background-size:cover;
@@ -338,14 +341,9 @@ footer {
 	height: auto;
 }
 #contact {
-	margin: auto;
-	width: 100%;
-	left: 7em;
-}
-#contact p {
 	display: none;
 }
-#contact div {
+#contact1.2 {
 	display: inline-block;
 	float: left;
 	margin: 0.3em;
