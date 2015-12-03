@@ -316,7 +316,7 @@ h1, h2 {
 }
 #photo {
 	background-image: url(../images/gug2.png);
-	background-size: auto;
+	background-position: top;
 }
 .portfolioItem {
 	margin: 1.618;
