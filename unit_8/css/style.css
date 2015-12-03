@@ -260,6 +260,9 @@ h1 a, h2 a {
 h1, h2 {
 	padding: 0;
 }
+.container, #container_about_page, #container_portfolio_page {
+	clear: both;
+}
 #home_page, #portfolio, #about, #photo {
 	float: none;
 	height: 23%;
