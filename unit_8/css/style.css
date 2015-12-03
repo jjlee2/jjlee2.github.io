@@ -264,8 +264,8 @@ h1, h2 {
 	float: none;
 	height: 23%;
 	display: block;
-	width: 99.5%;
-	margin: 1.333%;
+	width: 98.5%;
+	margin: 2em;
 	padding: .50% ;
 }
 #contact {
@@ -297,7 +297,7 @@ h1, h2 {
 	float: none;
 	height: 10%;
 	width: 98.5%;
-	margin: .50% .25%;
+	margin: 2em;
 	display: block;
 }
 #logo {
