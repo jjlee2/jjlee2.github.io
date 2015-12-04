@@ -361,6 +361,7 @@ footer {
 @media only screen and (max-width: 680px) {
 #about text p {
 	line-height: 1.618em;
+	margin: 0;
 }
 nav a {
 		padding: 1em;
