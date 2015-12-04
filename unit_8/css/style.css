@@ -192,10 +192,10 @@ p{
 }
 footer {
 	background-color: #3F464C;
-	width: 99.5%;
+	width: 98%;
 	box-shadow:2px 2px 4px rgba(0,0,0,.25);
 	border-radius:.25em;
-	margin: 1% 1% 2%;
+	margin: 0 1% 1%;
 	color: #FFFFFF;
 	float: left;
 	padding: 2em;
