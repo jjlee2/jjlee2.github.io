@@ -348,6 +348,9 @@ footer {
 #contact {
 	display: inline-block;
 	float: left;
+	width: 75%;
+	position: relative;
+	left: 22%;
 }
 .portfolioItem {
 	float: left;
