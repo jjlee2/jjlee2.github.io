@@ -315,6 +315,9 @@ h1, h2 {
 	height: auto;
 	padding: 0 3em;
 }
+#about_text p {
+	margin: 0 1.618em 1.618em;
+}
 #photo {
 	background-image: url(../images/gug2.png);
 	background-position: top;
