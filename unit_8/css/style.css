@@ -53,6 +53,9 @@ p{
 }
 #photo {
 	width: 23.75%;
+	height: 100%;
+	float: left;
+	border-radius: .25em;
 }
 #home_page {
 	background-color: #FF7F66;
