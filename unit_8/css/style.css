@@ -266,14 +266,13 @@ h1, h2 {
 	float: none;
 	height: 23%;
 	display: block;
-	width: 98.5%;
+	width: 100%;
 	margin-bottom: 1%;
 }
 #contact {
 	overflow: hidden;
 	width: 85%;
 	margin: 1% auto;
-	position: relative;
 }
 #contact div {
 	float: left;
