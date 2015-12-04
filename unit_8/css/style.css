@@ -164,7 +164,7 @@ p{
 #about_text {
 	padding: 3em;
 	margin: 0 auto;
-	height: 60%;
+	width: 60%;
 }
 #about_text p {
 	line-height: 2em;
