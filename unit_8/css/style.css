@@ -262,12 +262,18 @@ h1, h2 {
 .container, #container_about_page, #container_portfolio_page {
 	clear: both;
 }
-#home_page, #portfolio, #about, #photo {
+#home_page, #portfolio, #about {
 	float: none;
-	height: 23%;
+	height: 24.25%;
 	display: block;
 	width: 100%;
 	margin-bottom: 1%;
+}
+#photo {
+	float: none;
+	height: 24.25%;
+	display: block;
+	width: 100%;
 }
 #contact {
 	overflow: hidden;
