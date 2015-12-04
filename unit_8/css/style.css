@@ -359,7 +359,7 @@ footer {
 }
 }
 @media only screen and (max-width: 680px) {
-#about text p {
+#about_text p {
 	line-height: 1.618em;
 	margin: 0;
 }
@@ -368,15 +368,17 @@ nav a {
 	}
 }
 @media only screen and (max-width: 530px) {
-#about_text, #gallery {
+#about_text, #gallery, #contact2 {
 	margin: 0 1em;
 	padding: 0 1em;
+}
+#about_text p {
+	line-height: 1.5em;
 }
 #contact2 {
 	padding: 0;
 	margin: 1em;
 }
-
 #copyright {
 	display: none;
 }
@@ -385,9 +387,6 @@ nav a {
 #about_text, #gallery, #contact2 {
 	padding: 0;
 	margin: 1.25em;
-}
-#about_text p {
-	line-height: 1.5em;
 }
 #contact2 p {
 	line-height: 0;
