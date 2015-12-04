@@ -261,6 +261,7 @@ h1, h2 {
 }
 .container, #container_about_page, #container_portfolio_page {
 	clear: both;
+	margin: 0 1% 5%;
 }
 #home_page, #portfolio, #about {
 	float: none;
