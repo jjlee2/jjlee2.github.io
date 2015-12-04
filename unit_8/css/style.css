@@ -261,7 +261,7 @@ h1, h2 {
 }
 .container, #container_about_page, #container_portfolio_page {
 	clear: both;
-	margin: 0 1% 5%;
+	margin: 1% 1% 5%;
 }
 #home_page, #portfolio, #about {
 	float: none;
@@ -358,7 +358,7 @@ footer {
 	height: 100%;
 }
 }
-@media only screen and (max-width: 800px) {
+/*@media only screen and (max-width: 800px) {
 
 p {
 	margin: 1em;
@@ -413,14 +413,10 @@ p {
 #phone2, #email2, #linkedin2 {
 	margin: 0 .5em;
 }
-/*#contact2 p {
-	position: relative;
-	top: 20px;
-}*/
 nav a {
 		padding: .75em;
 	}
-}
+}*/
 @media only screen and (max-width: 400px) {
 #about_text, #gallery, #contact2 {
 	padding: 0;
