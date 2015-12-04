@@ -342,14 +342,12 @@ footer {
 #container_portfolio_page, #container_about_page {
 	height: auto;
 }
-#contact p {
+.contact_text {
 	display: none;
 }
 #contact {
 	display: inline-block;
 	float: left;
-	margin: 0.3em;
-	width: 90%;
 }
 .portfolioItem {
 	float: left;
