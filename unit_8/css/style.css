@@ -428,4 +428,7 @@ nav a {
 nav {
 	width: 65%;
 }
+nav a {
+	padding: .3em;
+}
 }
