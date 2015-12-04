@@ -297,13 +297,14 @@ h1, h2 {
 	width: 100%;
 	display: block;
 	clear: both;
+	margin-bottom: 5%;
 }
 #logo {
 	width: 50%;
 	height: 50%;
 }
 #gallery, #about_text {
-	margin: 3em;
+	margin: 0 3em;
 	width: 90%;
 	height: auto;
 	padding: 0 3em;
