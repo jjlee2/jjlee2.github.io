@@ -359,7 +359,10 @@ footer {
 }
 }
 @media only screen and (max-width: 680px) {
-	nav a {
+#about text p {
+	line-height: 1.618em;
+}
+nav a {
 		padding: 1em;
 	}
 }
