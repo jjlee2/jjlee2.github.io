@@ -68,13 +68,14 @@ p{
 	max-width: 100%
 }
 #portfolio {
-	background-color: #7ECEFC;
+	background-color: #328DC4;
+
 }
 /*#portfolio:hover{
 	background-color: #B5DDF5;
 }*/
 #about {
-	background-color: #328DC4;
+	background-color: #7ECEFC;
 }
 /*#about:hover{
 	background-color: #88B1D8;
