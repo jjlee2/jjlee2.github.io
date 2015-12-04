@@ -257,7 +257,7 @@ h1 a, h2 a {
 }
 @media only screen and (max-width: 1150px) {
 h1, h2 {
-	padding: 0;
+	padding: .3em;
 }
 .container, #container_about_page, #container_portfolio_page {
 	clear: both;
@@ -302,6 +302,7 @@ h1, h2 {
 	float: none;
 	height: 10%;
 	width: 100%;
+	padding: .3em;
 	display: block;
 	clear: both;
 	margin-bottom: 5%;
@@ -360,6 +361,9 @@ footer {
 	left: 22%;
 	margin: 3% auto;
 }
+#gallery {
+	margin: auto;
+}
 .portfolioItem {
 	float: left;
 	height: 100%;
@@ -369,6 +373,10 @@ footer {
 #about_text p {
 	line-height: 1.618em;
 	margin: 1.618em;
+}
+#gallery, #about_text {
+	width: 80%;
+	padding: 0;
 }
 nav a {
 		padding: 1em;
