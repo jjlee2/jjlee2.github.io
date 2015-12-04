@@ -338,10 +338,7 @@ footer {
 	padding: 1em;
 }
 }
-@media only screen and (max-width: 920px) {
-.container {
-	padding: .50%;
-}
+@media only screen and (max-width: 945px) {
 #container_portfolio_page, #container_about_page {
 	height: auto;
 }
