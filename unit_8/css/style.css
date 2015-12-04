@@ -296,6 +296,7 @@ h1, h2 {
 .contact_icons {
 	width: 25%;
 	text-align: center;
+	float: none;
 }
 #portfolio_page, #about_page {
 	float: none;
