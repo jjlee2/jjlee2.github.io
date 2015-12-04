@@ -373,12 +373,12 @@ footer {
 }
 #about_text p {
 	line-height: 1.5em;
-	font-size: .8em;
 }
 #contact2 p {
 	line-height: 0;
 	position: relative;
 	top: 10px;
+	font-size: .8em;
 }
 #copyright {
 	font-size: .75%;
