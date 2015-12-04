@@ -374,9 +374,10 @@ footer {
 	line-height: 1.618em;
 	margin: 1.618em;
 }
-#gallery, #about_text {
+#gallery, #about_text, #contact2 {
 	width: 80%;
 	padding: 0;
+	margin: 2.5em;
 }
 nav a {
 		padding: 1em;
