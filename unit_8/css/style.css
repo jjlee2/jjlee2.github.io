@@ -264,14 +264,14 @@ h1, h2 {
 }
 #home_page, #portfolio, #about {
 	float: none;
-	height: 24.25%;
+	height: 24%;
 	display: block;
 	width: 100%;
 	margin-bottom: 1%;
 }
 #photo {
 	float: none;
-	height: 24.25%;
+	height: 24%;
 	display: block;
 	width: 100%;
 }
