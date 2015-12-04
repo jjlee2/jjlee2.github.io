@@ -10,14 +10,6 @@ body {
 	font-family: 'Open Sans', sans-serif;
 	color: #FFFFFF;
 }
-.container, #container_portfolio_page, #container_about_page {
-	height: 100vh;
-	margin: 1% 1% 5%;
-	width: 98%;
-	text-align: center;
-	background-color: #FFFFFF;
-	clear: both;
-}
 h1,h2 {
 	font-family: 'Dosis', sans-serif;
 	font-size: 3em;
@@ -43,6 +35,14 @@ p{
 	line-height: 1.618em;
 	margin: 1.618em;
 }
+.container, #container_portfolio_page, #container_about_page {
+	height: 100vh;
+	margin: 1% 1% 5%;
+	width: 98%;
+	text-align: center;
+	background-color: #FFFFFF;
+	clear: both;
+}
 #home_page, #about, #portfolio {
 	width: 24.25%;
 	height: 100%;
@@ -50,6 +50,16 @@ p{
 	float: left;
 	/*box-shadow:2px 2px 4px rgba(0,0,0,.25);*/
 	border-radius:.25em;
+}
+#about_page, #portfolio_page {
+	background-color: #7ECEFC;
+	width: 24.25%;
+	height: 100%;
+	margin-right: 1%;
+	float: left;
+	box-shadow:2px 2px 4px rgba(0,0,0,.25);
+	border-radius:.08333em;
+	color: #FFFFFF;
 }
 #photo {
 	width: 24.25%;
@@ -80,6 +90,12 @@ p{
 /*#about:hover{
 	background-color: #88B1D8;
 }*/
+#photo {
+	background-image:url(../images/gug.png);
+	background-size:cover;
+	background-repeat:no-repeat;
+	background-position:bottom;
+}
 .contact_icons {
 	width: 55px;
 	height: 55px;
@@ -109,24 +125,41 @@ p{
 	left: 4px;
 	top: 4px;
 }
-#contact1.2 {
-	display: none;
-}
-#photo {
-	background-image:url(../images/gug.png);
-	background-size:cover;
-	background-repeat:no-repeat;
-	background-position:bottom;
-}
-#about_page, #portfolio_page {
-	background-color: #7ECEFC;
-	width: 24.25%;
-	height: 100%;
-	margin-right: 1%;
+#about_text, #gallery {
 	float: left;
-	box-shadow:2px 2px 4px rgba(0,0,0,.25);
-	border-radius:.08333em;
-	color: #FFFFFF;
+	width: 75.75%;
+	text-align: justify;
+}
+#portfolio_page {
+	background-color: #328DC4;
+}
+#gallery {
+	height: 100%;
+}
+.portfolioItem {
+	color: #3F464C;
+	text-align: left;
+	float: left;
+	width: 32%;
+	margin-left: 1.25%;
+	padding-bottom: 3%;
+	display: block;
+}
+.portfolioItem h3, .portfolioItem p, .portfolioItem img {
+	width: 100%;
+}
+.portfolioItem h3 {
+	text-transform: lowercase;
+	text-align: left;
+}
+.portfolioItem p {
+	font-size: .75em;
+	margin: 0 auto;
+	line-height: 1em;
+}
+.portfolioItem img {
+	border-radius: .25em;
+	height: 100%;
 }
 #about_text {
 	padding: 3em;
@@ -135,11 +168,6 @@ p{
 }
 #about_text p {
 	line-height: 2em;
-}
-#about_text, #gallery {
-	float: left;
-	width: 75%;
-	text-align: justify;
 }
 .contact_icons2 {
 	color: #3F464C;
@@ -163,38 +191,7 @@ p{
 	float: left;
 	margin: 0 1.618em;
 }
-#gallery {
-	margin: 0 auto;
-	height: 100%;
-}
-#portfolio_page {
-	background-color: #328DC4;
-}
-.portfolioItem {
-	color: #3F464C;
-	text-align: left;
-	float: left;
-	width: 31.8%;
-	margin: 0 .75% 2.5%;
-	padding: 0;
-	display: block;
-}
-.portfolioItem h3, .portfolioItem p, .portfolioItem img {
-	width: 100%;
-}
-.portfolioItem h3 {
-	text-transform: lowercase;
-	text-align: left;
-}
-.portfolioItem p {
-	font-size: .75em;
-	margin: 0 auto;
-	line-height: 1em;
-}
-.portfolioItem img {
-	border-radius: .25em;
-	height: 100%;
-}
+
 footer {
 	background-color: #3F464C;
 	width: 98%;
