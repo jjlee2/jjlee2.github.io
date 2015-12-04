@@ -369,10 +369,18 @@ footer {
 @media only screen and (max-width: 400px) {
 #about_text, #gallery, #contact2 {
 	padding: 0;
-	margin: 1.5em;
+	margin: 1.25em;
 }
 #about_text p {
 	line-height: 1.5em;
+}
+#contact2 p {
+	line-height: 0;
+	position: relative;
+	top: 10px;
+}
+#copyright {
+	font-size: .75%;
 }
 nav a {
 	padding: .3em;
