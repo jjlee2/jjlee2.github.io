@@ -149,12 +149,13 @@ p{
 }
 .portfolioItem h3 {
 	text-transform: lowercase;
-	text-align: left;
+	text-align: center;
 }
 .portfolioItem p {
 	font-size: .75em;
 	margin: 0 auto;
 	line-height: 1em;
+	text-align: center;
 }
 .portfolioItem img {
 	border-radius: .25em;
