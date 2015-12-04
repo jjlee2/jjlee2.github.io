@@ -365,8 +365,12 @@ footer {
 }
 @media only screen and (max-width: 530px) {
 #about_text, #gallery {
-	margin: 0 1.5em;
-	padding: 0 1.5em;
+	margin: 0 1em;
+	padding: 0 1em;
+}
+#contact2 {
+	padding: 0;
+	margin: 1em;
 }
 
 #copyright {
