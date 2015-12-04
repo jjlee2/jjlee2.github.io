@@ -205,14 +205,14 @@ footer {
 }
 #copyright {
 	float: left;
-	width: 30%;
+	width: auto;
 	color: #FFFFFF;
 	position: relative;
 	margin: auto;
 }
 nav {
 	display: inline;
-	width: 60%;
+	width: auto;
 	float: right;
 	margin: auto;
 	position: relative;
@@ -358,65 +358,14 @@ footer {
 	height: 100%;
 }
 }
-/*@media only screen and (max-width: 800px) {
-
-p {
-	margin: 1em;
-}
-#logo {
-	width: 50%;
-}
-#contact {
-	padding-left: 0;
-}
-#contact img {
-	float: none;
-	width: 33%;
-}
-#contact div {
-	float: none;
-	margin: auto;
-}
-#email {
-	width: 50%;
-	margin-left: -20%;
-}
-.portfolioItem {
-	width: 30%;
-}
-.portfolioItem p, .portfolioItem h3, .portfolioItem img {
-	margin-bottom: 0;
-}
-#contact_icons2 {
-	width: 15%;
-}
-#phone2, #email2, #linkedin2 {
-	margin: 0 1em;
-}
-footer p {
-	font-size: .75em;
-}
-#copyright {
-	width: auto;
-}
-nav {
-	font-size: .75em;
-}
-}
-@media only screen and (max-width: 505px) {
-h1, h2 {
-	font-size: 2em;
-}
-p {
-	margin: 1em;
-}
-#phone2, #email2, #linkedin2 {
-	margin: 0 .5em;
-}
-nav a {
-		padding: .75em;
+@media only screen and (max-width: 680px) {
+	nav a {
+		padding: 1em;
 	}
-}*/
+}
+@media only screen and (max-width: 530px) {
+
+}
 @media only screen and (max-width: 400px) {
 #about_text, #gallery, #contact2 {
 	padding: 0;
@@ -425,10 +374,8 @@ nav a {
 #about_text p {
 	line-height: 1.5em;
 }
-nav {
-	width: 65%;
-}
 nav a {
 	padding: .3em;
+	font-size: .75em;
 }
 }
