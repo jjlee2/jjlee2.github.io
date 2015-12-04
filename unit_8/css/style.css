@@ -368,6 +368,10 @@ footer {
 	float: left;
 	height: 100%;
 }
+#footer {
+	margin: 3%;
+	width: 94%;
+}
 }
 @media only screen and (max-width: 680px) {
 #about_text p {
