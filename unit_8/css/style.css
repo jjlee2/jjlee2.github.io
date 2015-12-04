@@ -346,7 +346,7 @@ footer {
 	height: auto;
 	margin: 3%;
 }
-#home_page, #about, #portfolio {
+#home_page, #about, #portfolio, #photo, #portfolio_page, #about_page, #footer {
 	width: 94%;
 }
 .contact_text {
