@@ -364,6 +364,9 @@ footer {
 #gallery {
 	margin: auto;
 }
+#gallery, #about_text {
+	margin: 0 1em;
+}
 .portfolioItem {
 	float: left;
 	height: 100%;
