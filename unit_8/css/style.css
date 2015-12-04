@@ -425,4 +425,7 @@ nav a {
 #about_text p {
 	line-height: 1.5em;
 }
+nav {
+	width: 65%;
+}
 }
