@@ -351,6 +351,7 @@ footer {
 	width: 75%;
 	position: relative;
 	left: 22%;
+	margin: 3% auto;
 }
 .portfolioItem {
 	float: left;
