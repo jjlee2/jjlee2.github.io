@@ -339,7 +339,10 @@ footer {
 }
 }
 @media only screen and (max-width: 945px) {
-.container, #container_portfolio_page, #container_about_page {
+.container {
+	margin: 3%;
+}
+#container_portfolio_page, #container_about_page {
 	height: auto;
 	margin: 3%;
 }
