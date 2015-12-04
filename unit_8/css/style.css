@@ -12,7 +12,7 @@ body {
 }
 .container {
 	height: 100vh;
-	padding: 2% .50% 1%;
+	margin: 2% .50% 1%;
 	width: 100%;
 	text-align: center;
 	background-color: #FFFFFF;
@@ -45,7 +45,7 @@ p{
 #home_page, #about, #portfolio, #photo {
 	width: 24%;
 	height: 100%;
-	padding:0 .50%;
+	margin:0 .50%;
 	float: left;
 	/*box-shadow:2px 2px 4px rgba(0,0,0,.25);*/
 	border-radius:.25em;
