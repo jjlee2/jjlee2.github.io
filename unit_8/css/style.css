@@ -294,7 +294,7 @@ h1, h2 {
 #portfolio_page, #about_page {
 	float: none;
 	height: 10%;
-	width: 98.5%;
+	width: 100%;
 	display: block;
 	clear: both;
 }
