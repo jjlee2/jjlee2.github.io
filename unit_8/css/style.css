@@ -191,7 +191,6 @@ p{
 	float: left;
 	margin: 0 1.618em;
 }
-
 footer {
 	background-color: #3F464C;
 	width: 98%;
@@ -223,6 +222,7 @@ nav a {
 	padding: 2em;
 	margin: auto;
 }
+
 /*media queries*/
 @media only screen and (max-width: 1375px) {
 h1, h2 {
@@ -267,7 +267,7 @@ h1, h2 {
 	height: 23%;
 	display: block;
 	width: 98.5%;
-	margin: .8125%;
+	margin-bottom: 1%;
 }
 #contact {
 	overflow: hidden;
