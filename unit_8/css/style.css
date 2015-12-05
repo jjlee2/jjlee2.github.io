@@ -120,8 +120,6 @@ p{
 	margin: 1.618em;
 	text-align: left;
 	width: 100%;
-	/*position: relative;
-	left: 4px;*/
 	top: 4px;
 }
 #about_text, #gallery {
@@ -206,7 +204,6 @@ footer {
 	float: left;
 	width: auto;
 	color: #FFFFFF;
-	/*position: relative;*/
 	margin: auto;
 }
 nav {
@@ -214,7 +211,6 @@ nav {
 	width: auto;
 	float: right;
 	margin: auto;
-	/*position: relative;*/
 	text-align: right;
 }
 nav a {
@@ -386,6 +382,7 @@ nav a {
 #about_text, #gallery, #contact2 {
 	margin: 0 1em;
 	padding: 0 1em;
+	float: none;
 }
 #about_text p {
 	line-height: 1.5em;
@@ -408,8 +405,6 @@ nav a {
 }
 #contact2 p {
 	line-height: 0;
-	/*position: relative;
-	top: 10px;*/
 	font-size: .75em;
 }
 #copyright {
