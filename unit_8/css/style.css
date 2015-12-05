@@ -343,15 +343,21 @@ footer {
 	height: auto;
 	margin: 2%;
 }
+h1, h2 {
+	padding: .2em;
+}
 #home_page, #portfolio, #about {
 	margin-bottom: 2%;
-	height: 22.5%;
+	height: 21.5%;
 }
 #photo {
-	height: 22.5%;
+	height: 21.5%;
+}
+#logo {
+	margin: 0;
 }
 #home_page, #about, #portfolio, #photo, #portfolio_page, #about_page, #footer {
-	width: 96%;
+	width: 98%;
 }
 #contact p {
 	display: none;
