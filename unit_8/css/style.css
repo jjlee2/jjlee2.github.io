@@ -337,11 +337,14 @@ footer {
 }
 @media only screen and (max-width: 945px) {
 .container {
-	margin: 3%;
+	margin: 2%;
 }
 #container_portfolio_page, #container_about_page {
 	height: auto;
-	margin: 3%;
+	margin: 2%;
+}
+#home_page, #portfolio, #about {
+	margin-bottom: 2%;
 }
 #home_page, #about, #portfolio, #photo, #portfolio_page, #about_page, #footer {
 	width: 96%;
@@ -381,7 +384,6 @@ nav a {
 @media only screen and (max-width: 530px) {
 #about_text, #gallery, #contact2 {
 	margin: 0 1em;
-	padding: 0 1em;
 	float: none;
 }
 #about_text p {
