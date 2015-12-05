@@ -161,7 +161,7 @@ p{
 #about_text {
 	padding: 3em 3em 0;
 	margin: 0 auto;
-	width: 60%;
+	width: 63%;
 	text-align: left;
 }
 #about_text p {
@@ -181,6 +181,9 @@ p{
 	width: 65%;
 	float: left;
 	padding: 0 3em;
+}
+#contact2 p {
+	font-size: .75em;
 }
 #phone2, #email2, #linkedin2 {
 	width: 100%;
