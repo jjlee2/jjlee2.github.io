@@ -350,6 +350,9 @@ footer {
 #home_page, #about, #portfolio, #photo, #portfolio_page, #about_page, #footer {
 	width: 96%;
 }
+#contact p {
+	display: hidden;
+}
 #gallery {
 	margin: auto;
 }
@@ -366,9 +369,6 @@ footer {
 }
 }
 @media only screen and (max-width: 680px) {
-#contact p {
-	display: hidden;
-}
 #about_text p {
 	line-height: 1.618em;
 	margin: 1.618em;
