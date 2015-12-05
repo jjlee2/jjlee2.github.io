@@ -345,6 +345,10 @@ footer {
 }
 #home_page, #portfolio, #about {
 	margin-bottom: 2%;
+	height: 23.5%;
+}
+#photo {
+	height: 23.5%;
 }
 #home_page, #about, #portfolio, #photo, #portfolio_page, #about_page, #footer {
 	width: 96%;
