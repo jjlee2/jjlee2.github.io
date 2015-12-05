@@ -372,6 +372,9 @@ h1, h2 {
 	float: left;
 	height: 100%;
 }
+#contact2 {
+	margin: 0 1em;
+}
 footer {
 	margin: 3%;
 	width: 94%;
