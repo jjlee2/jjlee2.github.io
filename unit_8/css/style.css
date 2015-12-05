@@ -283,7 +283,7 @@ h1, h2 {
 #contact div {
 	float: left;
 	display: inline-block;
-	width: 33%;
+	width: 33.33%;
 }
 #contact p {
 	margin: .5em;
@@ -348,16 +348,8 @@ footer {
 	margin: 3%;
 }
 #home_page, #about, #portfolio, #photo, #portfolio_page, #about_page, #footer {
-	width: 94%;
+	width: 96%;
 }
-/*#contact {
-	display: inline-block;
-	float: left;
-	width: 75%;
-	/*position: relative;
-	left: 22%;
-	margin: 3% auto;
-}*/
 #gallery {
 	margin: auto;
 }
@@ -374,6 +366,9 @@ footer {
 }
 }
 @media only screen and (max-width: 680px) {
+#contact p {
+	display: hidden;
+}
 #about_text p {
 	line-height: 1.618em;
 	margin: 1.618em;
