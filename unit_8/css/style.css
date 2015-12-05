@@ -354,8 +354,8 @@ footer {
 	display: inline-block;
 	float: left;
 	width: 75%;
-	position: relative;
-	left: 22%;
+	/*position: relative;
+	left: 22%;*/
 	margin: 3% auto;
 }
 #gallery {
