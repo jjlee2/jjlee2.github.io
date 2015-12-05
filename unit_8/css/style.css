@@ -350,14 +350,14 @@ footer {
 #home_page, #about, #portfolio, #photo, #portfolio_page, #about_page, #footer {
 	width: 94%;
 }
-#contact {
+/*#contact {
 	display: inline-block;
 	float: left;
 	width: 75%;
 	/*position: relative;
-	left: 22%;*/
+	left: 22%;
 	margin: 3% auto;
-}
+}*/
 #gallery {
 	margin: auto;
 }
