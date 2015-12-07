@@ -105,7 +105,7 @@ p{
 #contact {
 	display:block;
 	margin: auto;
-	width: 15em;
+	width: 18em;
 }
 #contact img {
 	vertical-align: middle;
@@ -113,6 +113,7 @@ p{
 #contact div {
 	overflow:hidden;
 	width: 100%;
+	margin: .5em 0;
 }
 #contact p {
 	color: #FFF;
