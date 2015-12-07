@@ -120,7 +120,8 @@ p{
 	margin: 1.618em;
 	text-align: left;
 	width: 100%;
-	top: 4px;
+	position: relative;
+	left: 1em;
 }
 #about_text, #gallery {
 	float: left;
