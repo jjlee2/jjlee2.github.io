@@ -186,6 +186,8 @@ p{
 }
 #contact2 p {
 	font-size: .75em;
+	position: relative;
+	left: 1em;
 }
 #phone2, #email2, #linkedin2 {
 	width: 100%;
@@ -242,9 +244,6 @@ h1 a, h2 a {
 	width: 100%;
 	padding: 0;
 }
-#logo {
-	margin: 1% 0;
-}
 #contact {
 	width: 18em;
 	left: 5px;
@@ -257,7 +256,7 @@ h1 a, h2 a {
 }
 @media only screen and (max-width: 1150px) {
 h1, h2 {
-	padding: .3em;
+	padding: .2em;
 }
 .container, #container_about_page, #container_portfolio_page {
 	clear: both;
@@ -265,21 +264,20 @@ h1, h2 {
 }
 #home_page, #portfolio, #about {
 	float: none;
-	height: 24%;
+	height: 23%;
 	display: block;
 	width: 100%;
 	margin-bottom: 1%;
 }
 #photo {
 	float: none;
-	height: 24%;
+	height: 23%;
 	display: block;
 	width: 100%;
 }
 #contact {
-	overflow: hidden;
-	width: 85%;
 	margin: auto;
+	width: 100%;
 }
 #contact div {
 	float: left;
@@ -290,6 +288,7 @@ h1, h2 {
 	margin: .5em;
 	text-align: center;
 	width: auto;
+	left: 0;
 }
 #email_address {
 	width: 100%;
