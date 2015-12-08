@@ -35,12 +35,12 @@ p{
 	line-height: 1.618em;
 	margin: 1.618em;
 }
-.clearfix {
+.clearfix: after {
 	clear: both;
 	visibility: hidden;
 	display: block;
 	font-size: 0;
-	content: " ";
+	content: ".";
 	height: 0;
 }
 .container, #container_portfolio_page, #container_about_page {
