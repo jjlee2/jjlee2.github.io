@@ -36,12 +36,12 @@ p{
 	margin: 1.618em;
 }
 .clearfix:after {
-	clear: both;
 	visibility: hidden;
 	display: block;
 	font-size: 0;
 	content: ".";
 	height: 0;
+	clear: both;
 }
 .container, #container_portfolio_page, #container_about_page {
 	height: 100vh;
