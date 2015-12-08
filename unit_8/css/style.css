@@ -354,7 +354,7 @@ footer {
 	margin: 2%;
 }
 h1, h2 {
-	padding: .2em;
+	padding: .2em 0 0;
 }
 #home_page, #portfolio, #about {
 	margin-bottom: 2%;
