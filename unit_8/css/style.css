@@ -42,6 +42,7 @@ p{
 	text-align: center;
 	background-color: #FFFFFF;
 	clear: both;
+	max-height: 100%;
 }
 #home_page, #about, #portfolio {
 	width: 24.25%;
