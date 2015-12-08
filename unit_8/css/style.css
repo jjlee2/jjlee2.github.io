@@ -433,6 +433,13 @@ nav a {
 	padding: 0;
 	margin: 1.25em;
 }
+.portfolioItem {
+	width: 60%;
+}
+.portfolioItem h3, .portfolioItem p {
+	float: right;
+	width: 40%;
+}
 #contact2 p {
 	line-height: 0;
 	font-size: .75em;
