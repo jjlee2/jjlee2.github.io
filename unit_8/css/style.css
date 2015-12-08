@@ -185,7 +185,7 @@ p{
 	padding: 0 3em;
 }
 #contact2 div {
-	margin: .5em 0;
+	margin: .5em 1.618em;
 }
 #contact2 p {
 	font-size: .75em;
@@ -406,7 +406,7 @@ nav a {
 }
 @media only screen and (max-width: 530px) {
 #about_text, #gallery, #contact2 {
-	margin: 0 1em;
+	margin: auto;
 	float: none;
 }
 #about_text p {
