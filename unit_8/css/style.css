@@ -431,14 +431,10 @@ nav a {
 @media only screen and (max-width: 400px) {
 #about_text, #gallery, #contact2 {
 	padding: 0;
-	margin: 1.25em;
+	margin: .5em;
 }
 .portfolioItem {
-	width: 60%;
-}
-.portfolioItem h3, .portfolioItem p {
-	float: right;
-	width: 40%;
+	width: 100%;
 }
 #contact2 p {
 	line-height: 0;
