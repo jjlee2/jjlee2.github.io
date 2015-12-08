@@ -35,6 +35,9 @@ p{
 	line-height: 1.618em;
 	margin: 1.618em;
 }
+.clearfix {
+	clear: both;
+}
 .container, #container_portfolio_page, #container_about_page {
 	height: 100vh;
 	margin: 1% 1% 5%;
@@ -435,6 +438,10 @@ nav a {
 }
 .portfolioItem {
 	width: 100%;
+}
+#about_text {
+	width: 90%;
+	margin: .5em;
 }
 #contact2 p {
 	line-height: 0;
