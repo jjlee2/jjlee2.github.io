@@ -378,6 +378,7 @@ h1, h2 {
 .portfolioItem {
 	float: left;
 	height: 100%;
+	margin-left: 2%;
 }
 #contact2 {
 	margin: 0 1em;
