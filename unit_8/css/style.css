@@ -37,6 +37,11 @@ p{
 }
 .clearfix {
 	clear: both;
+	visibility: hidden;
+	display: block;
+	font-size: 0;
+	content: " ";
+	height: 0;
 }
 .container, #container_portfolio_page, #container_about_page {
 	height: 100vh;
