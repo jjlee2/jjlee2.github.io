@@ -189,7 +189,8 @@ p{
 	margin: .5em 1.618em;
 }
 #contact2 p {
-	font-size: .75em;
+	margin: 1em;
+	line-height: 1em;
 	position: relative;
 	left: 1em;
 }
