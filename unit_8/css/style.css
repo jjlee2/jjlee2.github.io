@@ -128,7 +128,8 @@ p{
 }
 #about_text, #gallery {
 	float: left;
-	width: 75.75%;
+	width: 74.75%;
+	margin: 0 .5%;
 }
 #portfolio_page {
 	background-color: #328DC4;
@@ -140,8 +141,8 @@ p{
 	color: #3F464C;
 	text-align: left;
 	float: left;
-	width: 32.02%;
-	margin-left: 1.25%;
+	width: 33%;
+	margin-left: 0 .5% 1.25%;
 	padding-bottom: 3%;
 	display: block;
 }
@@ -314,10 +315,11 @@ h1, h2 {
 	height: 50%;
 }
 #gallery, #about_text {
-	margin: 0 3em;
+	margin: auto;
 	width: 90%;
 	height: auto;
 	padding: 0 3em;
+	float: none;
 }
 #about_text p {
 	margin: 0 1.618em 1.618em;
