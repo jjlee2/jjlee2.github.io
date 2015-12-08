@@ -401,13 +401,15 @@ nav a {
 		padding: 1em;
 	}
 }
+@media only screen and (max-width: 580px) {
+#contact p {
+	display: none;
+}
+}
 @media only screen and (max-width: 530px) {
 #about_text, #gallery, #contact2 {
 	margin: auto;
 	float: none;
-}
-#contact p {
-	display: none;
 }
 #about_text p {
 	line-height: 1.5em;
