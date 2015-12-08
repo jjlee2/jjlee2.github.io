@@ -46,7 +46,7 @@ p{
 .container, #container_portfolio_page, #container_about_page {
 	height: 100vh;
 	margin: 1% .5% 5%;
-	width: 98%;
+	width: 99%;
 	text-align: center;
 	background-color: #FFFFFF;
 	clear: both;
@@ -268,7 +268,7 @@ h1, h2 {
 	float: none;
 	height: 22.75%;
 	display: block;
-	width: 100%;
+	width: 99%;
 	margin-bottom: 1%;
 }
 #photo {
