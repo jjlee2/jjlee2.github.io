@@ -275,7 +275,7 @@ h1, h2 {
 	float: none;
 	height: 22.75%;
 	display: block;
-	width: 100%;
+	width: 99%;
 }
 #contact {
 	margin: auto;
@@ -303,8 +303,8 @@ h1, h2 {
 #portfolio_page, #about_page {
 	float: none;
 	height: 10%;
-	width: 100%;
-	padding: .3em;
+	width: 99%;
+	margin: 0 .5%;
 	display: block;
 	clear: both;
 	margin-bottom: 5%;
