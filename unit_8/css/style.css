@@ -366,9 +366,6 @@ h1, h2 {
 #home_page, #about, #portfolio, #photo, #portfolio_page, #about_page, #footer {
 	width: 98%;
 }
-#contact p {
-	display: none;
-}
 #gallery {
 	margin: auto;
 }
@@ -408,6 +405,9 @@ nav a {
 #about_text, #gallery, #contact2 {
 	margin: auto;
 	float: none;
+}
+#contact p {
+	display: none;
 }
 #about_text p {
 	line-height: 1.5em;
