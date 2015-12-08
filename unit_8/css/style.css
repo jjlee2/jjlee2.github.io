@@ -364,9 +364,9 @@ h1, h2 {
 #logo {
 	margin: 0;
 }
-/*#home_page, #about, #portfolio, #photo, #portfolio_page, #about_page, #footer {
+#home_page, #about, #portfolio, #photo, #portfolio_page, #about_page, #footer {
 	width: 98%;
-}*/
+}
 #gallery {
 	margin: auto;
 }
