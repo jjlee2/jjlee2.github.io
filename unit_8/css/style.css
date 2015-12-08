@@ -129,8 +129,7 @@ p{
 }
 #about_text, #gallery {
 	float: left;
-	width: 74.75%;
-	margin: 0 .5%;
+	width: 75%;
 }
 #portfolio_page {
 	background-color: #328DC4;
