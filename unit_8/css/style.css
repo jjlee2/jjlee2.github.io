@@ -64,13 +64,16 @@ p{
 	color: #FFFFFF;
 }
 #photo {
+	background-image:url(../images/gug.png);
+	background-size:cover;
+	background-repeat:no-repeat;
+	background-position:bottom;
 	width: 24.25%;
 	height: 96%;
 	margin-right: 0;
 	float: left;
 	border-radius: .25em;
 	box-shadow:2px 2px 4px rgba(0,0,0,.25);
-	clear: both;
 }
 #home_page {
 	background-color: #FF7F66;
@@ -94,12 +97,7 @@ p{
 /*#about:hover{
 	background-color: #88B1D8;
 }*/
-#photo {
-	background-image:url(../images/gug.png);
-	background-size:cover;
-	background-repeat:no-repeat;
-	background-position:bottom;
-}
+
 .contact_icons {
 	width: 55px;
 	height: 55px;
@@ -268,7 +266,6 @@ h1, h2 {
 	padding: .2em;
 }
 .container, #container_about_page, #container_portfolio_page {
-	clear: both;
 	margin: 1% 1% 5%;
 }
 #home_page, #portfolio, #about {
