@@ -184,6 +184,9 @@ p{
 	float: left;
 	padding: 0 3em;
 }
+#contact2 div {
+	margin: .5em 0;
+}
 #contact2 p {
 	font-size: .75em;
 	position: relative;
@@ -438,7 +441,6 @@ nav a {
 h1, h2 {
 	margin: .1em;
 }
-
 #logo {
 	margin: -15px;
 }
