@@ -35,7 +35,7 @@ p{
 	line-height: 1.618em;
 	margin: 1.618em;
 }
-.clearfix: after {
+.clearfix:after {
 	clear: both;
 	visibility: hidden;
 	display: block;
