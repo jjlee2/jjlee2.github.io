@@ -368,14 +368,14 @@ h1, h2 {
 	margin-bottom: 2%;
 }
 #portfolio_page, #about_page {
-	margin-bottom: 3%;
+	margin-bottom: 5%;
 }
 #gallery {
 	margin: auto;
 }
-#gallery, #about_text {
+/*#gallery, #about_text {
 	margin: 0 1em;
-}
+}*/
 .portfolioItem {
 	float: left;
 	height: 100%;
