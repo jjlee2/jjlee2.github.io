@@ -45,7 +45,7 @@ p{
 }
 .container, #container_portfolio_page, #container_about_page {
 	height: 100vh;
-	margin: 1% .5% 3.5%;
+	margin: 1% .5% 3%;
 	width: 99%;
 	text-align: center;
 	background-color: #FFFFFF;
@@ -142,7 +142,7 @@ p{
 	text-align: left;
 	float: left;
 	width: 32.33%;
-	margin: 0 .5% 3.5%;
+	margin: 0 .5% 3%;
 	display: block;
 }
 .portfolioItem h3, .portfolioItem p, .portfolioItem img {
