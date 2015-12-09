@@ -368,7 +368,8 @@ h1, h2 {
 	margin-bottom: 2%;
 }
 #portfolio_page, #about_page {
-	margin-bottom: 5%;
+	margin: 0 0 5%;
+	width: 100%;
 }
 #gallery {
 	margin: auto;
