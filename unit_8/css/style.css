@@ -342,6 +342,7 @@ footer {
 @media only screen and (max-width: 945px) {
 .container {
 	margin: 2%;
+	width: 96%;
 }
 #container_portfolio_page, #container_about_page {
 	height: auto;
