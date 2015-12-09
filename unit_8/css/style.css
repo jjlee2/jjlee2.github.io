@@ -377,7 +377,7 @@ h1, h2 {
 .portfolioItem {
 	float: left;
 	height: 100%;
-	margin-left: 2%;
+	/*margin-left: 2%;*/
 	width: 30%;
 }
 footer {
