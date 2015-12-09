@@ -65,7 +65,7 @@ p{
 	margin: 0 .5%;
 	height: 96%;
 	float: left;
-	box-shadow:2px 2px 4px rgba(0,0,0,.25);
+	/*box-shadow:2px 2px 4px rgba(0,0,0,.25);*/
 	border-radius:.08333em;
 	color: #FFFFFF;
 }
@@ -381,8 +381,8 @@ h1, h2 {
 	width: 30%;
 }
 footer {
-	margin: 3%;
-	width: 94%;
+	margin: 2%;
+	width: 96%;
 }
 }
 @media only screen and (max-width: 680px) {
