@@ -56,7 +56,7 @@ p{
 	height: 96%;
 	margin: 0 .5%;
 	float: left;
-	box-shadow:2px 2px 4px rgba(0,0,0,.25);
+	/*box-shadow:2px 2px 4px rgba(0,0,0,.25);*/
 	border-radius:.25em;
 }
 #about_page, #portfolio_page {
@@ -362,10 +362,13 @@ h1, h2 {
 #logo {
 	margin: 0;
 }
-#home_page, #about, #portfolio, #photo, #portfolio_page, #about_page, #footer {
+#home_page, #about, #portfolio, #photo, #footer {
 	width: 100%;
 	margin: 0;
 	margin-bottom: 2%;
+}
+#portfolio_page, #about_page {
+	margin-bottom: 3%;
 }
 #gallery {
 	margin: auto;
